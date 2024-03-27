@@ -1,4 +1,6 @@
-﻿using Bulky.DataAccess.Repository.IRepository;
+﻿using Bulky.DataAccess.Data;
+using Bulky.DataAccess.Repository.IRepository;
+using Bulky.Models;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -9,10 +11,19 @@ namespace Bulky.DataAccess.Repository
 {
     public class UnitOfWork:IUnitOfWork
     {
-        public ICategoryRepository CategoryRepository { get; set; }
+        private ApplicationDbContext _db;
+        public ICategoryRepository Category { get; set; }
+
+
+        public UnitOfWork(ApplicationDbContext db)
+        {
+            _db = db;
+            Category = new CategoryRepository(_db);
+             
+        }
         public void Save()
         {
-
+            _db.SaveChanges();
         }
 
     }
