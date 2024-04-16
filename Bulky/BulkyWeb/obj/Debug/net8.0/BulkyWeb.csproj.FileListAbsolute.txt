@@ -123,7 +123,6 @@ C:\Users\pranjal.misra\Desktop\PM\dotNet\Bulky\Bulky\BulkyWeb\obj\Debug\net8.0\s
 C:\Users\pranjal.misra\Desktop\PM\dotNet\Bulky\Bulky\BulkyWeb\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
 C:\Users\pranjal.misra\Desktop\PM\dotNet\Bulky\Bulky\BulkyWeb\obj\Debug\net8.0\scopedcss\bundle\BulkyWeb.styles.css
 C:\Users\pranjal.misra\Desktop\PM\dotNet\Bulky\Bulky\BulkyWeb\obj\Debug\net8.0\scopedcss\projectbundle\BulkyWeb.bundle.scp.css
-C:\Users\pranjal.misra\Desktop\PM\dotNet\Bulky\Bulky\BulkyWeb\obj\Debug\net8.0\BulkyWeb.csproj.CopyComplete
 C:\Users\pranjal.misra\Desktop\PM\dotNet\Bulky\Bulky\BulkyWeb\obj\Debug\net8.0\BulkyWeb.dll
 C:\Users\pranjal.misra\Desktop\PM\dotNet\Bulky\Bulky\BulkyWeb\obj\Debug\net8.0\refint\BulkyWeb.dll
 C:\Users\pranjal.misra\Desktop\PM\dotNet\Bulky\Bulky\BulkyWeb\obj\Debug\net8.0\BulkyWeb.pdb
@@ -256,3 +255,5 @@ C:\Users\pranjal.misra\Desktop\PM\dotNet\Bulky\Bulky\BulkyWeb\bin\Debug\net8.0\B
 C:\Users\pranjal.misra\Desktop\PM\dotNet\Bulky\Bulky\BulkyWeb\bin\Debug\net8.0\Bulky.DataAccess.pdb
 C:\Users\pranjal.misra\Desktop\PM\dotNet\Bulky\Bulky\BulkyWeb\bin\Debug\net8.0\Bulky.Models.pdb
 C:\Users\pranjal.misra\Desktop\PM\dotNet\Bulky\Bulky\BulkyWeb\bin\Debug\net8.0\Bulky.Utility.pdb
+C:\Users\pranjal.misra\Desktop\PM\dotNet\Bulky\Bulky\BulkyWeb\obj\Debug\net8.0\BulkyWeb.csproj.Up2Date
+C:\Users\pranjal.misra\Desktop\PM\dotNet\Bulky\Bulky\BulkyWeb\obj\Debug\net8.0\BulkyWeb.MvcApplicationPartsAssemblyInfo.cs

@@ -9,7 +9,6 @@ C:\Users\pranjal.misra\Desktop\PM\dotNet\Bulky\Bulky\Bulky.DataAccess\obj\Debug\
 C:\Users\pranjal.misra\Desktop\PM\dotNet\Bulky\Bulky\Bulky.DataAccess\obj\Debug\net8.0\Bulky.DataAccess.AssemblyInfoInputs.cache
 C:\Users\pranjal.misra\Desktop\PM\dotNet\Bulky\Bulky\Bulky.DataAccess\obj\Debug\net8.0\Bulky.DataAccess.AssemblyInfo.cs
 C:\Users\pranjal.misra\Desktop\PM\dotNet\Bulky\Bulky\Bulky.DataAccess\obj\Debug\net8.0\Bulky.DataAccess.csproj.CoreCompileInputs.cache
-C:\Users\pranjal.misra\Desktop\PM\dotNet\Bulky\Bulky\Bulky.DataAccess\obj\Debug\net8.0\Bulky.DataAccess.csproj.CopyComplete
 C:\Users\pranjal.misra\Desktop\PM\dotNet\Bulky\Bulky\Bulky.DataAccess\obj\Debug\net8.0\Bulky.DataAccess.dll
 C:\Users\pranjal.misra\Desktop\PM\dotNet\Bulky\Bulky\Bulky.DataAccess\obj\Debug\net8.0\refint\Bulky.DataAccess.dll
 C:\Users\pranjal.misra\Desktop\PM\dotNet\Bulky\Bulky\Bulky.DataAccess\obj\Debug\net8.0\Bulky.DataAccess.pdb
@@ -17,3 +16,4 @@ C:\Users\pranjal.misra\Desktop\PM\dotNet\Bulky\Bulky\Bulky.DataAccess\obj\Debug\
 C:\Users\pranjal.misra\Desktop\PM\dotNet\Bulky\Bulky\Bulky.DataAccess\obj\Debug\net8.0\ref\Bulky.DataAccess.dll
 C:\Users\pranjal.misra\Desktop\PM\dotNet\Bulky\Bulky\Bulky.DataAccess\bin\Debug\net8.0\Bulky.Utility.dll
 C:\Users\pranjal.misra\Desktop\PM\dotNet\Bulky\Bulky\Bulky.DataAccess\bin\Debug\net8.0\Bulky.Utility.pdb
+C:\Users\pranjal.misra\Desktop\PM\dotNet\Bulky\Bulky\Bulky.DataAccess\obj\Debug\net8.0\Bulky.Da.6DBD1FC4.Up2Date
