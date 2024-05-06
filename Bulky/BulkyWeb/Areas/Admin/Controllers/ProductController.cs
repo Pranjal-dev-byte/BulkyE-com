@@ -10,17 +10,19 @@ namespace BulkyWeb.Areas.Admin.Controllers
     public class ProductController : Controller
     {
         private readonly IUnitOfWork _unitOfWork;
+        private readonly IWebHostEnvironment _webHostEnvironment;
 
-        public ProductController(IUnitOfWork unitOfWork)
+        public ProductController(IUnitOfWork unitOfWork, IWebHostEnvironment webHostEnvironment)
         {
             _unitOfWork = unitOfWork;
+            _webHostEnvironment = webHostEnvironment;
         }
 
 
         // GET: CategoryController
         public ActionResult Index()
         {
-            List<Product> products = _unitOfWork.Products.GetAll().ToList();
+            List<Product> products = _unitOfWork.Products.GetAll(includeProperties: "Category").ToList();
             return View(products);
         }
 
@@ -31,7 +33,7 @@ namespace BulkyWeb.Areas.Admin.Controllers
         }
 
         // GET: CategoryController/Create
-        public IActionResult Create()
+        public IActionResult Upsert(int? id)
         {
             //Projections -:
             //IEnumerable<SelectListItem> categoryList = _unitOfWork.Category.GetAll().Select(u => new SelectListItem
@@ -49,21 +51,62 @@ namespace BulkyWeb.Areas.Admin.Controllers
                 }),
                 Product = new Product()
             };
+            if (id == null || id == 0)
+            {
+                //Creates
+                return View(productVM);
+
+            }
+            else
+            {
+                //Update
+                productVM.Product = _unitOfWork.Products.Get(u => u.Id == id);
+                return View(productVM);
+            }
             //Viewbag -- Used to transfer dynamic data from controller to view
             //ViewBag.CategoryList = categoryList;
             //ViewData["CategoryList"] = categoryList;
-            return View(productVM);
         }
 
         // POST: CategoryController/Create
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public IActionResult Create(ProductVM productVM)
+        public IActionResult Upsert(ProductVM productVM, IFormFile? file)
         {
-            
+
             if (ModelState.IsValid)
             {
-                _unitOfWork.Products.Add(productVM.Product);
+                string wwwRootPath = _webHostEnvironment.WebRootPath;
+                if (file != null)
+                {
+                    string fileName = Guid.NewGuid().ToString() + Path.GetExtension(file.FileName);
+                    string productPath = Path.Combine(wwwRootPath, @"images\products");
+
+                    if (!string.IsNullOrEmpty(productVM.Product.ImageUrl))
+                    {
+                        //Delete the old file
+                        var oldImgPath = Path.Combine(wwwRootPath, productVM.Product.ImageUrl.TrimStart('\\'));
+                        if (System.IO.File.Exists(oldImgPath))
+                        {
+                            System.IO.File.Delete(oldImgPath);
+                        }
+                    }
+                    using (var fileStream = new FileStream(Path.Combine(productPath, fileName), FileMode.Create))
+                    {
+                        file.CopyTo(fileStream);
+                    }
+                    productVM.Product.ImageUrl = @"\images\products\" + fileName;
+
+                }
+                if (productVM.Product.Id == 0)
+                {
+                    _unitOfWork.Products.Add(productVM.Product);
+                }
+                else
+                {
+                    _unitOfWork.Products.Update(productVM.Product);
+
+                }
                 _unitOfWork.Save();
                 TempData["success"] = "Product created successfully";
                 return RedirectToAction("Index");
@@ -77,7 +120,7 @@ namespace BulkyWeb.Areas.Admin.Controllers
                     Value = u.Id.ToString(),
                 });
                 return View(productVM);
-                
+
             }
         }
 
@@ -109,35 +152,33 @@ namespace BulkyWeb.Areas.Admin.Controllers
 
         }
 
-        // GET: CategoryController/Delete/5
-        public IActionResult Delete(int id)
+        #region API calls
+        [HttpGet]
+        public IActionResult GetAll()
         {
-            if (id == null || id == 0)
-            {
-                return NotFound();
-            }
-            Product productFromDb = _unitOfWork.Products.Get(u => u.Id == id);
-            if (productFromDb == null)
-            {
-                return NotFound();
-            }
-            return View(productFromDb);
+            List<Product> products = _unitOfWork.Products.GetAll(includeProperties: "Category").ToList();
+            return Json(new { data = products });
         }
 
-        // POST: CategoryController/Delete/5
-        [HttpPost, ActionName("Delete")]
-        [ValidateAntiForgeryToken]
-        public IActionResult DeletePost(int id)
+        [HttpDelete]
+        public IActionResult Delete(int? id)
         {
-            Product? obj = _unitOfWork.Products.Get(u => u.Id == id);
-            if (obj == null)
+            Product? prodToDelete = _unitOfWork.Products.Get(u => u.Id == id);
+            if (prodToDelete==null)
             {
-                return NotFound();
+                return Json(new { success = false, message = "Error while deleting" });
             }
-            _unitOfWork.Products.Remove(obj);
+            //Delete the old file
+            var oldImgPath = Path.Combine(_webHostEnvironment.WebRootPath, prodToDelete.ImageUrl.TrimStart('\\'));
+            if (System.IO.File.Exists(oldImgPath))
+            {
+                System.IO.File.Delete(oldImgPath);
+            }
+
+            _unitOfWork.Products.Remove(prodToDelete);
             _unitOfWork.Save();
-            TempData["success"] = "Product deleted successfully";
-            return RedirectToAction("Index");
+            return Json(new { success = true, message ="Delete successful" });
         }
+        #endregion
     }
 }

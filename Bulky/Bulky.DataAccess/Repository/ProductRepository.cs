@@ -17,9 +17,25 @@ namespace Bulky.DataAccess.Repository
             _db = db;
         }
 
-        void IProductRepository.Update(Product product)
+        public void Update(Product product)
         {
-            _db.Products.Update(product);
+            var objFromDb = _db.Products.FirstOrDefault(u=>u.Id == product.Id);
+            if (objFromDb != null)
+            {
+                objFromDb.ISBN = product.ISBN;
+                objFromDb.ListPrice = product.ListPrice;
+                objFromDb.Price = product.Price;
+                objFromDb.Price100 = product.Price100;
+                objFromDb.Price50 = product.Price50;
+                objFromDb.Description = product.Description;
+                objFromDb.CategoryId = product.CategoryId;
+                objFromDb.Author =  product.Author;
+                objFromDb.Category = product.Category;
+                if(product.ImageUrl != null)
+                {
+                    objFromDb.ImageUrl = product.ImageUrl;
+                }
+            }
         }
     }
 }
