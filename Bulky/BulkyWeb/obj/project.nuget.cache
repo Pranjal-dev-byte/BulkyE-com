@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "So3+bJLjpGqJjfgMmW+pQKcAt04B9cz+vj6Z10gV3Vcv5eMRJCJBnxceMDx342w2tgXYsM9PlSzDbcSwI9hvFw==",
+  "dgSpecHash": "xhiZ/NtcB22MrzLiIvWmckqAApF3eGrM5nxI/wpbHSldWXAq9o1BHtzSgNLhrG45oWW4NGKM8YeEELT7e5pDZw==",
   "success": true,
   "projectFilePath": "C:\\Users\\pranjal.misra\\Desktop\\PM\\dotNet\\Bulky\\Bulky\\BulkyWeb\\BulkyWeb.csproj",
   "expectedPackageFiles": [
@@ -139,6 +139,7 @@
     "C:\\Users\\pranjal.misra\\.nuget\\packages\\sqlitepclraw.core\\2.1.6\\sqlitepclraw.core.2.1.6.nupkg.sha512",
     "C:\\Users\\pranjal.misra\\.nuget\\packages\\sqlitepclraw.lib.e_sqlite3\\2.1.6\\sqlitepclraw.lib.e_sqlite3.2.1.6.nupkg.sha512",
     "C:\\Users\\pranjal.misra\\.nuget\\packages\\sqlitepclraw.provider.e_sqlite3\\2.1.6\\sqlitepclraw.provider.e_sqlite3.2.1.6.nupkg.sha512",
+    "C:\\Users\\pranjal.misra\\.nuget\\packages\\stripe.net\\44.10.0\\stripe.net.44.10.0.nupkg.sha512",
     "C:\\Users\\pranjal.misra\\.nuget\\packages\\system.codedom\\5.0.0\\system.codedom.5.0.0.nupkg.sha512",
     "C:\\Users\\pranjal.misra\\.nuget\\packages\\system.collections.immutable\\7.0.0\\system.collections.immutable.7.0.0.nupkg.sha512",
     "C:\\Users\\pranjal.misra\\.nuget\\packages\\system.composition\\7.0.0\\system.composition.7.0.0.nupkg.sha512",

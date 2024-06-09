@@ -3,60 +3,296 @@
   "WorkspaceRootPath": "C:\\Users\\pranjal.misra\\Desktop\\PM\\dotNet\\Bulky\\Bulky\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3C3A9D44-218C-4D30-B644-BC86C2416166}|BulkyWeb\\BulkyWeb.csproj|c:\\users\\pranjal.misra\\desktop\\pm\\dotnet\\bulky\\bulky\\bulkyweb\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3C3A9D44-218C-4D30-B644-BC86C2416166}|BulkyWeb\\BulkyWeb.csproj|solutionrelative:bulkyweb\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3C3A9D44-218C-4D30-B644-BC86C2416166}|BulkyWeb\\BulkyWeb.csproj|c:\\users\\pranjal.misra\\desktop\\pm\\dotnet\\bulky\\bulky\\bulkyweb\\areas\\admin\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C3A9D44-218C-4D30-B644-BC86C2416166}|BulkyWeb\\BulkyWeb.csproj|solutionrelative:bulkyweb\\areas\\admin\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3C3A9D44-218C-4D30-B644-BC86C2416166}|BulkyWeb\\BulkyWeb.csproj|c:\\users\\pranjal.misra\\desktop\\pm\\dotnet\\bulky\\bulky\\bulkyweb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3C3A9D44-218C-4D30-B644-BC86C2416166}|BulkyWeb\\BulkyWeb.csproj|solutionrelative:bulkyweb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FD6B1AA2-1D60-472B-A87F-1283D4E64C90}|Bulky.Models\\Bulky.Models.csproj|c:\\users\\pranjal.misra\\desktop\\pm\\dotnet\\bulky\\bulky\\bulky.models\\viewmodels\\ordervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD6B1AA2-1D60-472B-A87F-1283D4E64C90}|Bulky.Models\\Bulky.Models.csproj|solutionrelative:bulky.models\\viewmodels\\ordervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\pranjal.misra\\Desktop\\PM\\dotNet\\Bulky\\Bulky\\Bulky.DataAccess\\Migrations\\20240507034153_ExtendIdentityUser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Bulky.DataAccess\\Migrations\\20240507034153_ExtendIdentityUser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E9CB2DE0-9DBF-4FC4-8611-5CC8D39CFCC0}|Bulky.DataAccess\\Bulky.DataAccess.csproj|c:\\users\\pranjal.misra\\desktop\\pm\\dotnet\\bulky\\bulky\\bulky.dataaccess\\repository\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9CB2DE0-9DBF-4FC4-8611-5CC8D39CFCC0}|Bulky.DataAccess\\Bulky.DataAccess.csproj|solutionrelative:bulky.dataaccess\\repository\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E9CB2DE0-9DBF-4FC4-8611-5CC8D39CFCC0}|Bulky.DataAccess\\Bulky.DataAccess.csproj|c:\\users\\pranjal.misra\\desktop\\pm\\dotnet\\bulky\\bulky\\bulky.dataaccess\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E9CB2DE0-9DBF-4FC4-8611-5CC8D39CFCC0}|Bulky.DataAccess\\Bulky.DataAccess.csproj|solutionrelative:bulky.dataaccess\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E9CB2DE0-9DBF-4FC4-8611-5CC8D39CFCC0}|Bulky.DataAccess\\Bulky.DataAccess.csproj|c:\\users\\pranjal.misra\\desktop\\pm\\dotnet\\bulky\\bulky\\bulky.dataaccess\\repository\\irepository\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9CB2DE0-9DBF-4FC4-8611-5CC8D39CFCC0}|Bulky.DataAccess\\Bulky.DataAccess.csproj|solutionrelative:bulky.dataaccess\\repository\\irepository\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\pranjal.misra\\Desktop\\PM\\dotNet\\Bulky\\Bulky\\Bulky.DataAccess\\Migrations\\20240506074103_addIdentityTables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Bulky.DataAccess\\Migrations\\20240506074103_addIdentityTables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E9CB2DE0-9DBF-4FC4-8611-5CC8D39CFCC0}|Bulky.DataAccess\\Bulky.DataAccess.csproj|c:\\users\\pranjal.misra\\desktop\\pm\\dotnet\\bulky\\bulky\\bulky.dataaccess\\repository\\irepository\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9CB2DE0-9DBF-4FC4-8611-5CC8D39CFCC0}|Bulky.DataAccess\\Bulky.DataAccess.csproj|solutionrelative:bulky.dataaccess\\repository\\irepository\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3C3A9D44-218C-4D30-B644-BC86C2416166}|BulkyWeb\\BulkyWeb.csproj|c:\\users\\pranjal.misra\\desktop\\pm\\dotnet\\bulky\\bulky\\bulkyweb\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{3C3A9D44-218C-4D30-B644-BC86C2416166}|BulkyWeb\\BulkyWeb.csproj|solutionrelative:bulkyweb\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{E9CB2DE0-9DBF-4FC4-8611-5CC8D39CFCC0}|Bulky.DataAccess\\Bulky.DataAccess.csproj|c:\\users\\pranjal.misra\\desktop\\pm\\dotnet\\bulky\\bulky\\bulky.dataaccess\\repository\\orderdetailsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9CB2DE0-9DBF-4FC4-8611-5CC8D39CFCC0}|Bulky.DataAccess\\Bulky.DataAccess.csproj|solutionrelative:bulky.dataaccess\\repository\\orderdetailsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9CB2DE0-9DBF-4FC4-8611-5CC8D39CFCC0}|Bulky.DataAccess\\Bulky.DataAccess.csproj|c:\\users\\pranjal.misra\\desktop\\pm\\dotnet\\bulky\\bulky\\bulky.dataaccess\\repository\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9CB2DE0-9DBF-4FC4-8611-5CC8D39CFCC0}|Bulky.DataAccess\\Bulky.DataAccess.csproj|solutionrelative:bulky.dataaccess\\repository\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C3A9D44-218C-4D30-B644-BC86C2416166}|BulkyWeb\\BulkyWeb.csproj|c:\\users\\pranjal.misra\\desktop\\pm\\dotnet\\bulky\\bulky\\bulkyweb\\areas\\admin\\views\\order\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3C3A9D44-218C-4D30-B644-BC86C2416166}|BulkyWeb\\BulkyWeb.csproj|solutionrelative:bulkyweb\\areas\\admin\\views\\order\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C3A9D44-218C-4D30-B644-BC86C2416166}|BulkyWeb\\BulkyWeb.csproj|c:\\users\\pranjal.misra\\desktop\\pm\\dotnet\\bulky\\bulky\\bulkyweb\\wwwroot\\js\\order.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{3C3A9D44-218C-4D30-B644-BC86C2416166}|BulkyWeb\\BulkyWeb.csproj|solutionrelative:bulkyweb\\wwwroot\\js\\order.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD6B1AA2-1D60-472B-A87F-1283D4E64C90}|Bulky.Models\\Bulky.Models.csproj|c:\\users\\pranjal.misra\\desktop\\pm\\dotnet\\bulky\\bulky\\bulky.models\\orderheader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD6B1AA2-1D60-472B-A87F-1283D4E64C90}|Bulky.Models\\Bulky.Models.csproj|solutionrelative:bulky.models\\orderheader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C3A9D44-218C-4D30-B644-BC86C2416166}|BulkyWeb\\BulkyWeb.csproj|c:\\users\\pranjal.misra\\desktop\\pm\\dotnet\\bulky\\bulky\\bulkyweb\\wwwroot\\js\\product.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{3C3A9D44-218C-4D30-B644-BC86C2416166}|BulkyWeb\\BulkyWeb.csproj|solutionrelative:bulkyweb\\wwwroot\\js\\product.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3C3A9D44-218C-4D30-B644-BC86C2416166}|BulkyWeb\\BulkyWeb.csproj|c:\\users\\pranjal.misra\\desktop\\pm\\dotnet\\bulky\\bulky\\bulkyweb\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{3C3A9D44-218C-4D30-B644-BC86C2416166}|BulkyWeb\\BulkyWeb.csproj|solutionrelative:bulkyweb\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3C3A9D44-218C-4D30-B644-BC86C2416166}|BulkyWeb\\BulkyWeb.csproj|c:\\users\\pranjal.misra\\desktop\\pm\\dotnet\\bulky\\bulky\\bulkyweb\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{3C3A9D44-218C-4D30-B644-BC86C2416166}|BulkyWeb\\BulkyWeb.csproj|solutionrelative:bulkyweb\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{3C3A9D44-218C-4D30-B644-BC86C2416166}|BulkyWeb\\BulkyWeb.csproj|c:\\users\\pranjal.misra\\desktop\\pm\\dotnet\\bulky\\bulky\\bulkyweb\\areas\\admin\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C3A9D44-218C-4D30-B644-BC86C2416166}|BulkyWeb\\BulkyWeb.csproj|solutionrelative:bulkyweb\\areas\\admin\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3C3A9D44-218C-4D30-B644-BC86C2416166}|BulkyWeb\\BulkyWeb.csproj|c:\\users\\pranjal.misra\\desktop\\pm\\dotnet\\bulky\\bulky\\bulkyweb\\areas\\customer\\views\\home\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{3C3A9D44-218C-4D30-B644-BC86C2416166}|BulkyWeb\\BulkyWeb.csproj|solutionrelative:bulkyweb\\areas\\customer\\views\\home\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{3C3A9D44-218C-4D30-B644-BC86C2416166}|BulkyWeb\\BulkyWeb.csproj|c:\\users\\pranjal.misra\\desktop\\pm\\dotnet\\bulky\\bulky\\bulkyweb\\areas\\admin\\controllers\\companycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C3A9D44-218C-4D30-B644-BC86C2416166}|BulkyWeb\\BulkyWeb.csproj|solutionrelative:bulkyweb\\areas\\admin\\controllers\\companycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3C3A9D44-218C-4D30-B644-BC86C2416166}|BulkyWeb\\BulkyWeb.csproj|c:\\users\\pranjal.misra\\desktop\\pm\\dotnet\\bulky\\bulky\\bulkyweb\\areas\\customer\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{3C3A9D44-218C-4D30-B644-BC86C2416166}|BulkyWeb\\BulkyWeb.csproj|solutionrelative:bulkyweb\\areas\\customer\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{3C3A9D44-218C-4D30-B644-BC86C2416166}|BulkyWeb\\BulkyWeb.csproj|c:\\users\\pranjal.misra\\desktop\\pm\\dotnet\\bulky\\bulky\\bulkyweb\\areas\\admin\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C3A9D44-218C-4D30-B644-BC86C2416166}|BulkyWeb\\BulkyWeb.csproj|solutionrelative:bulkyweb\\areas\\admin\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3C3A9D44-218C-4D30-B644-BC86C2416166}|BulkyWeb\\BulkyWeb.csproj|c:\\users\\pranjal.misra\\desktop\\pm\\dotnet\\bulky\\bulky\\bulkyweb\\areas\\customer\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3C3A9D44-218C-4D30-B644-BC86C2416166}|BulkyWeb\\BulkyWeb.csproj|solutionrelative:bulkyweb\\areas\\customer\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3C3A9D44-218C-4D30-B644-BC86C2416166}|BulkyWeb\\BulkyWeb.csproj|c:\\users\\pranjal.misra\\desktop\\pm\\dotnet\\bulky\\bulky\\bulkyweb\\areas\\admin\\views\\product\\upsert.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{3C3A9D44-218C-4D30-B644-BC86C2416166}|BulkyWeb\\BulkyWeb.csproj|solutionrelative:bulkyweb\\areas\\admin\\views\\product\\upsert.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{3C3A9D44-218C-4D30-B644-BC86C2416166}|BulkyWeb\\BulkyWeb.csproj|c:\\users\\pranjal.misra\\desktop\\pm\\dotnet\\bulky\\bulky\\bulkyweb\\areas\\customer\\views\\cart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3C3A9D44-218C-4D30-B644-BC86C2416166}|BulkyWeb\\BulkyWeb.csproj|solutionrelative:bulkyweb\\areas\\customer\\views\\cart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3C3A9D44-218C-4D30-B644-BC86C2416166}|BulkyWeb\\BulkyWeb.csproj|c:\\users\\pranjal.misra\\desktop\\pm\\dotnet\\bulky\\bulky\\bulkyweb\\areas\\admin\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{3C3A9D44-218C-4D30-B644-BC86C2416166}|BulkyWeb\\BulkyWeb.csproj|solutionrelative:bulkyweb\\areas\\admin\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{3C3A9D44-218C-4D30-B644-BC86C2416166}|BulkyWeb\\BulkyWeb.csproj|c:\\users\\pranjal.misra\\desktop\\pm\\dotnet\\bulky\\bulky\\bulkyweb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C3A9D44-218C-4D30-B644-BC86C2416166}|BulkyWeb\\BulkyWeb.csproj|solutionrelative:bulkyweb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C3A9D44-218C-4D30-B644-BC86C2416166}|BulkyWeb\\BulkyWeb.csproj|c:\\users\\pranjal.misra\\desktop\\pm\\dotnet\\bulky\\bulky\\bulkyweb\\areas\\admin\\views\\company\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3C3A9D44-218C-4D30-B644-BC86C2416166}|BulkyWeb\\BulkyWeb.csproj|solutionrelative:bulkyweb\\areas\\admin\\views\\company\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD6B1AA2-1D60-472B-A87F-1283D4E64C90}|Bulky.Models\\Bulky.Models.csproj|c:\\users\\pranjal.misra\\desktop\\pm\\dotnet\\bulky\\bulky\\bulky.models\\viewmodels\\productvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD6B1AA2-1D60-472B-A87F-1283D4E64C90}|Bulky.Models\\Bulky.Models.csproj|solutionrelative:bulky.models\\viewmodels\\productvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD6B1AA2-1D60-472B-A87F-1283D4E64C90}|Bulky.Models\\Bulky.Models.csproj|c:\\users\\pranjal.misra\\desktop\\pm\\dotnet\\bulky\\bulky\\bulky.models\\viewmodels\\shoppingcartvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD6B1AA2-1D60-472B-A87F-1283D4E64C90}|Bulky.Models\\Bulky.Models.csproj|solutionrelative:bulky.models\\viewmodels\\shoppingcartvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{3C3A9D44-218C-4D30-B644-BC86C2416166}|BulkyWeb\\BulkyWeb.csproj|c:\\users\\pranjal.misra\\desktop\\pm\\dotnet\\bulky\\bulky\\bulkyweb\\areas\\admin\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{3C3A9D44-218C-4D30-B644-BC86C2416166}|BulkyWeb\\BulkyWeb.csproj|solutionrelative:bulkyweb\\areas\\admin\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C3A9D44-218C-4D30-B644-BC86C2416166}|BulkyWeb\\BulkyWeb.csproj|c:\\users\\pranjal.misra\\desktop\\pm\\dotnet\\bulky\\bulky\\bulkyweb\\areas\\customer\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C3A9D44-218C-4D30-B644-BC86C2416166}|BulkyWeb\\BulkyWeb.csproj|solutionrelative:bulkyweb\\areas\\customer\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C3A9D44-218C-4D30-B644-BC86C2416166}|BulkyWeb\\BulkyWeb.csproj|c:\\users\\pranjal.misra\\desktop\\pm\\dotnet\\bulky\\bulky\\bulkyweb\\areas\\customer\\views\\cart\\summary.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3C3A9D44-218C-4D30-B644-BC86C2416166}|BulkyWeb\\BulkyWeb.csproj|solutionrelative:bulkyweb\\areas\\customer\\views\\cart\\summary.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD6B1AA2-1D60-472B-A87F-1283D4E64C90}|Bulky.Models\\Bulky.Models.csproj|c:\\users\\pranjal.misra\\desktop\\pm\\dotnet\\bulky\\bulky\\bulky.models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD6B1AA2-1D60-472B-A87F-1283D4E64C90}|Bulky.Models\\Bulky.Models.csproj|solutionrelative:bulky.models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD6B1AA2-1D60-472B-A87F-1283D4E64C90}|Bulky.Models\\Bulky.Models.csproj|c:\\users\\pranjal.misra\\desktop\\pm\\dotnet\\bulky\\bulky\\bulky.models\\shoppingcart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD6B1AA2-1D60-472B-A87F-1283D4E64C90}|Bulky.Models\\Bulky.Models.csproj|solutionrelative:bulky.models\\shoppingcart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9CB2DE0-9DBF-4FC4-8611-5CC8D39CFCC0}|Bulky.DataAccess\\Bulky.DataAccess.csproj|c:\\users\\pranjal.misra\\desktop\\pm\\dotnet\\bulky\\bulky\\bulky.dataaccess\\repository\\orderheaderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9CB2DE0-9DBF-4FC4-8611-5CC8D39CFCC0}|Bulky.DataAccess\\Bulky.DataAccess.csproj|solutionrelative:bulky.dataaccess\\repository\\orderheaderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9CB2DE0-9DBF-4FC4-8611-5CC8D39CFCC0}|Bulky.DataAccess\\Bulky.DataAccess.csproj|c:\\users\\pranjal.misra\\desktop\\pm\\dotnet\\bulky\\bulky\\bulky.dataaccess\\repository\\irepository\\iorderheaderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9CB2DE0-9DBF-4FC4-8611-5CC8D39CFCC0}|Bulky.DataAccess\\Bulky.DataAccess.csproj|solutionrelative:bulky.dataaccess\\repository\\irepository\\iorderheaderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C3A9D44-218C-4D30-B644-BC86C2416166}|BulkyWeb\\BulkyWeb.csproj|c:\\users\\pranjal.misra\\desktop\\pm\\dotnet\\bulky\\bulky\\bulkyweb\\bulkyweb.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3C3A9D44-218C-4D30-B644-BC86C2416166}|BulkyWeb\\BulkyWeb.csproj|solutionrelative:bulkyweb\\bulkyweb.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9CB2DE0-9DBF-4FC4-8611-5CC8D39CFCC0}|Bulky.DataAccess\\Bulky.DataAccess.csproj|c:\\users\\pranjal.misra\\desktop\\pm\\dotnet\\bulky\\bulky\\bulky.dataaccess\\repository\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9CB2DE0-9DBF-4FC4-8611-5CC8D39CFCC0}|Bulky.DataAccess\\Bulky.DataAccess.csproj|solutionrelative:bulky.dataaccess\\repository\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C3A9D44-218C-4D30-B644-BC86C2416166}|BulkyWeb\\BulkyWeb.csproj|c:\\users\\pranjal.misra\\desktop\\pm\\dotnet\\bulky\\bulky\\bulkyweb\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3C3A9D44-218C-4D30-B644-BC86C2416166}|BulkyWeb\\BulkyWeb.csproj|solutionrelative:bulkyweb\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D36DE09-ADF2-421B-B010-04D039EA3F9D}|Bulky.Utility\\Bulky.Utility.csproj|c:\\users\\pranjal.misra\\desktop\\pm\\dotnet\\bulky\\bulky\\bulky.utility\\stripesettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D36DE09-ADF2-421B-B010-04D039EA3F9D}|Bulky.Utility\\Bulky.Utility.csproj|solutionrelative:bulky.utility\\stripesettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C3A9D44-218C-4D30-B644-BC86C2416166}|BulkyWeb\\BulkyWeb.csproj|c:\\users\\pranjal.misra\\desktop\\pm\\dotnet\\bulky\\bulky\\bulkyweb\\areas\\customer\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C3A9D44-218C-4D30-B644-BC86C2416166}|BulkyWeb\\BulkyWeb.csproj|solutionrelative:bulkyweb\\areas\\customer\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C3A9D44-218C-4D30-B644-BC86C2416166}|BulkyWeb\\BulkyWeb.csproj|c:\\users\\pranjal.misra\\desktop\\pm\\dotnet\\bulky\\bulky\\bulkyweb\\areas\\customer\\views\\cart\\orderconfirmation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3C3A9D44-218C-4D30-B644-BC86C2416166}|BulkyWeb\\BulkyWeb.csproj|solutionrelative:bulkyweb\\areas\\customer\\views\\cart\\orderconfirmation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9CB2DE0-9DBF-4FC4-8611-5CC8D39CFCC0}|Bulky.DataAccess\\Bulky.DataAccess.csproj|c:\\users\\pranjal.misra\\desktop\\pm\\dotnet\\bulky\\bulky\\bulky.dataaccess\\repository\\irepository\\icompanyrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9CB2DE0-9DBF-4FC4-8611-5CC8D39CFCC0}|Bulky.DataAccess\\Bulky.DataAccess.csproj|solutionrelative:bulky.dataaccess\\repository\\irepository\\icompanyrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9CB2DE0-9DBF-4FC4-8611-5CC8D39CFCC0}|Bulky.DataAccess\\Bulky.DataAccess.csproj|c:\\users\\pranjal.misra\\desktop\\pm\\dotnet\\bulky\\bulky\\bulky.dataaccess\\repository\\irepository\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9CB2DE0-9DBF-4FC4-8611-5CC8D39CFCC0}|Bulky.DataAccess\\Bulky.DataAccess.csproj|solutionrelative:bulky.dataaccess\\repository\\irepository\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9CB2DE0-9DBF-4FC4-8611-5CC8D39CFCC0}|Bulky.DataAccess\\Bulky.DataAccess.csproj|c:\\users\\pranjal.misra\\desktop\\pm\\dotnet\\bulky\\bulky\\bulky.dataaccess\\repository\\irepository\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9CB2DE0-9DBF-4FC4-8611-5CC8D39CFCC0}|Bulky.DataAccess\\Bulky.DataAccess.csproj|solutionrelative:bulky.dataaccess\\repository\\irepository\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9CB2DE0-9DBF-4FC4-8611-5CC8D39CFCC0}|Bulky.DataAccess\\Bulky.DataAccess.csproj|c:\\users\\pranjal.misra\\desktop\\pm\\dotnet\\bulky\\bulky\\bulky.dataaccess\\repository\\applicationuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9CB2DE0-9DBF-4FC4-8611-5CC8D39CFCC0}|Bulky.DataAccess\\Bulky.DataAccess.csproj|solutionrelative:bulky.dataaccess\\repository\\applicationuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9CB2DE0-9DBF-4FC4-8611-5CC8D39CFCC0}|Bulky.DataAccess\\Bulky.DataAccess.csproj|c:\\users\\pranjal.misra\\desktop\\pm\\dotnet\\bulky\\bulky\\bulky.dataaccess\\repository\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9CB2DE0-9DBF-4FC4-8611-5CC8D39CFCC0}|Bulky.DataAccess\\Bulky.DataAccess.csproj|solutionrelative:bulky.dataaccess\\repository\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9CB2DE0-9DBF-4FC4-8611-5CC8D39CFCC0}|Bulky.DataAccess\\Bulky.DataAccess.csproj|c:\\users\\pranjal.misra\\desktop\\pm\\dotnet\\bulky\\bulky\\bulky.dataaccess\\repository\\companyrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9CB2DE0-9DBF-4FC4-8611-5CC8D39CFCC0}|Bulky.DataAccess\\Bulky.DataAccess.csproj|solutionrelative:bulky.dataaccess\\repository\\companyrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9CB2DE0-9DBF-4FC4-8611-5CC8D39CFCC0}|Bulky.DataAccess\\Bulky.DataAccess.csproj|c:\\users\\pranjal.misra\\desktop\\pm\\dotnet\\bulky\\bulky\\bulky.dataaccess\\repository\\shoppingcartrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9CB2DE0-9DBF-4FC4-8611-5CC8D39CFCC0}|Bulky.DataAccess\\Bulky.DataAccess.csproj|solutionrelative:bulky.dataaccess\\repository\\shoppingcartrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9CB2DE0-9DBF-4FC4-8611-5CC8D39CFCC0}|Bulky.DataAccess\\Bulky.DataAccess.csproj|c:\\users\\pranjal.misra\\desktop\\pm\\dotnet\\bulky\\bulky\\bulky.dataaccess\\migrations\\20240530081747_addorderheaderanddetailstodb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9CB2DE0-9DBF-4FC4-8611-5CC8D39CFCC0}|Bulky.DataAccess\\Bulky.DataAccess.csproj|solutionrelative:bulky.dataaccess\\migrations\\20240530081747_addorderheaderanddetailstodb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD6B1AA2-1D60-472B-A87F-1283D4E64C90}|Bulky.Models\\Bulky.Models.csproj|c:\\users\\pranjal.misra\\desktop\\pm\\dotnet\\bulky\\bulky\\bulky.models\\orderdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD6B1AA2-1D60-472B-A87F-1283D4E64C90}|Bulky.Models\\Bulky.Models.csproj|solutionrelative:bulky.models\\orderdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9CB2DE0-9DBF-4FC4-8611-5CC8D39CFCC0}|Bulky.DataAccess\\Bulky.DataAccess.csproj|c:\\users\\pranjal.misra\\desktop\\pm\\dotnet\\bulky\\bulky\\bulky.dataaccess\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9CB2DE0-9DBF-4FC4-8611-5CC8D39CFCC0}|Bulky.DataAccess\\Bulky.DataAccess.csproj|solutionrelative:bulky.dataaccess\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD6B1AA2-1D60-472B-A87F-1283D4E64C90}|Bulky.Models\\Bulky.Models.csproj|c:\\users\\pranjal.misra\\desktop\\pm\\dotnet\\bulky\\bulky\\bulky.models\\company.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD6B1AA2-1D60-472B-A87F-1283D4E64C90}|Bulky.Models\\Bulky.Models.csproj|solutionrelative:bulky.models\\company.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD6B1AA2-1D60-472B-A87F-1283D4E64C90}|Bulky.Models\\Bulky.Models.csproj|c:\\users\\pranjal.misra\\desktop\\pm\\dotnet\\bulky\\bulky\\bulky.models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD6B1AA2-1D60-472B-A87F-1283D4E64C90}|Bulky.Models\\Bulky.Models.csproj|solutionrelative:bulky.models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C3A9D44-218C-4D30-B644-BC86C2416166}|BulkyWeb\\BulkyWeb.csproj|c:\\users\\pranjal.misra\\desktop\\pm\\dotnet\\bulky\\bulky\\bulkyweb\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C3A9D44-218C-4D30-B644-BC86C2416166}|BulkyWeb\\BulkyWeb.csproj|solutionrelative:bulkyweb\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9CB2DE0-9DBF-4FC4-8611-5CC8D39CFCC0}|Bulky.DataAccess\\Bulky.DataAccess.csproj|c:\\users\\pranjal.misra\\desktop\\pm\\dotnet\\bulky\\bulky\\bulky.dataaccess\\repository\\irepository\\ishoppingcartrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9CB2DE0-9DBF-4FC4-8611-5CC8D39CFCC0}|Bulky.DataAccess\\Bulky.DataAccess.csproj|solutionrelative:bulky.dataaccess\\repository\\irepository\\ishoppingcartrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C3A9D44-218C-4D30-B644-BC86C2416166}|BulkyWeb\\BulkyWeb.csproj|c:\\users\\pranjal.misra\\desktop\\pm\\dotnet\\bulky\\bulky\\bulkyweb\\areas\\customer\\views\\home\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3C3A9D44-218C-4D30-B644-BC86C2416166}|BulkyWeb\\BulkyWeb.csproj|solutionrelative:bulkyweb\\areas\\customer\\views\\home\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C3A9D44-218C-4D30-B644-BC86C2416166}|BulkyWeb\\BulkyWeb.csproj|c:\\users\\pranjal.misra\\desktop\\pm\\dotnet\\bulky\\bulky\\bulkyweb\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3C3A9D44-218C-4D30-B644-BC86C2416166}|BulkyWeb\\BulkyWeb.csproj|solutionrelative:bulkyweb\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C3A9D44-218C-4D30-B644-BC86C2416166}|BulkyWeb\\BulkyWeb.csproj|c:\\users\\pranjal.misra\\desktop\\pm\\dotnet\\bulky\\bulky\\bulkyweb\\areas\\identity\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3C3A9D44-218C-4D30-B644-BC86C2416166}|BulkyWeb\\BulkyWeb.csproj|solutionrelative:bulkyweb\\areas\\identity\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C3A9D44-218C-4D30-B644-BC86C2416166}|BulkyWeb\\BulkyWeb.csproj|c:\\users\\pranjal.misra\\desktop\\pm\\dotnet\\bulky\\bulky\\bulkyweb\\areas\\admin\\views\\company\\upsert.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3C3A9D44-218C-4D30-B644-BC86C2416166}|BulkyWeb\\BulkyWeb.csproj|solutionrelative:bulkyweb\\areas\\admin\\views\\company\\upsert.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C3A9D44-218C-4D30-B644-BC86C2416166}|BulkyWeb\\BulkyWeb.csproj|c:\\users\\pranjal.misra\\desktop\\pm\\dotnet\\bulky\\bulky\\bulkyweb\\areas\\admin\\views\\product\\upsert.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3C3A9D44-218C-4D30-B644-BC86C2416166}|BulkyWeb\\BulkyWeb.csproj|solutionrelative:bulkyweb\\areas\\admin\\views\\product\\upsert.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C3A9D44-218C-4D30-B644-BC86C2416166}|BulkyWeb\\BulkyWeb.csproj|c:\\users\\pranjal.misra\\desktop\\pm\\dotnet\\bulky\\bulky\\bulkyweb\\wwwroot\\js\\company.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{3C3A9D44-218C-4D30-B644-BC86C2416166}|BulkyWeb\\BulkyWeb.csproj|solutionrelative:bulkyweb\\wwwroot\\js\\company.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C3A9D44-218C-4D30-B644-BC86C2416166}|BulkyWeb\\BulkyWeb.csproj|c:\\users\\pranjal.misra\\desktop\\pm\\dotnet\\bulky\\bulky\\bulkyweb\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{3C3A9D44-218C-4D30-B644-BC86C2416166}|BulkyWeb\\BulkyWeb.csproj|solutionrelative:bulkyweb\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\pranjal.misra\\Desktop\\PM\\dotNet\\Bulky\\Bulky\\Bulky.DataAccess\\Migrations\\20240523112903_AddedCompanyToApp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Bulky.DataAccess\\Migrations\\20240523112903_AddedCompanyToApp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\pranjal.misra\\Desktop\\PM\\dotNet\\Bulky\\Bulky\\Bulky.DataAccess\\Migrations\\20240523105302_ChangedPhoneNumberDatatypeToInt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Bulky.DataAccess\\Migrations\\20240523105302_ChangedPhoneNumberDatatypeToInt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD6B1AA2-1D60-472B-A87F-1283D4E64C90}|Bulky.Models\\Bulky.Models.csproj|c:\\users\\pranjal.misra\\desktop\\pm\\dotnet\\bulky\\bulky\\bulky.models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD6B1AA2-1D60-472B-A87F-1283D4E64C90}|Bulky.Models\\Bulky.Models.csproj|solutionrelative:bulky.models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C3A9D44-218C-4D30-B644-BC86C2416166}|BulkyWeb\\BulkyWeb.csproj|c:\\users\\pranjal.misra\\desktop\\pm\\dotnet\\bulky\\bulky\\bulkyweb\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3C3A9D44-218C-4D30-B644-BC86C2416166}|BulkyWeb\\BulkyWeb.csproj|solutionrelative:bulkyweb\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C3A9D44-218C-4D30-B644-BC86C2416166}|BulkyWeb\\BulkyWeb.csproj|c:\\users\\pranjal.misra\\desktop\\pm\\dotnet\\bulky\\bulky\\bulkyweb\\areas\\identity\\pages\\account\\manage\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3C3A9D44-218C-4D30-B644-BC86C2416166}|BulkyWeb\\BulkyWeb.csproj|solutionrelative:bulkyweb\\areas\\identity\\pages\\account\\manage\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C3A9D44-218C-4D30-B644-BC86C2416166}|BulkyWeb\\BulkyWeb.csproj|c:\\users\\pranjal.misra\\desktop\\pm\\dotnet\\bulky\\bulky\\bulkyweb\\areas\\identity\\pages\\account\\manage\\_managenav.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3C3A9D44-218C-4D30-B644-BC86C2416166}|BulkyWeb\\BulkyWeb.csproj|solutionrelative:bulkyweb\\areas\\identity\\pages\\account\\manage\\_managenav.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C3A9D44-218C-4D30-B644-BC86C2416166}|BulkyWeb\\BulkyWeb.csproj|c:\\users\\pranjal.misra\\desktop\\pm\\dotnet\\bulky\\bulky\\bulkyweb\\areas\\identity\\pages\\account\\manage\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3C3A9D44-218C-4D30-B644-BC86C2416166}|BulkyWeb\\BulkyWeb.csproj|solutionrelative:bulkyweb\\areas\\identity\\pages\\account\\manage\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C3A9D44-218C-4D30-B644-BC86C2416166}|BulkyWeb\\BulkyWeb.csproj|c:\\users\\pranjal.misra\\desktop\\pm\\dotnet\\bulky\\bulky\\bulkyweb\\areas\\identity\\pages\\account\\manage\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3C3A9D44-218C-4D30-B644-BC86C2416166}|BulkyWeb\\BulkyWeb.csproj|solutionrelative:bulkyweb\\areas\\identity\\pages\\account\\manage\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C3A9D44-218C-4D30-B644-BC86C2416166}|BulkyWeb\\BulkyWeb.csproj|c:\\users\\pranjal.misra\\desktop\\pm\\dotnet\\bulky\\bulky\\bulkyweb\\areas\\identity\\pages\\account\\logout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3C3A9D44-218C-4D30-B644-BC86C2416166}|BulkyWeb\\BulkyWeb.csproj|solutionrelative:bulkyweb\\areas\\identity\\pages\\account\\logout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C3A9D44-218C-4D30-B644-BC86C2416166}|BulkyWeb\\BulkyWeb.csproj|c:\\users\\pranjal.misra\\desktop\\pm\\dotnet\\bulky\\bulky\\bulkyweb\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{3C3A9D44-218C-4D30-B644-BC86C2416166}|BulkyWeb\\BulkyWeb.csproj|solutionrelative:bulkyweb\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C3A9D44-218C-4D30-B644-BC86C2416166}|BulkyWeb\\BulkyWeb.csproj|c:\\users\\pranjal.misra\\desktop\\pm\\dotnet\\bulky\\bulky\\bulkyweb\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3C3A9D44-218C-4D30-B644-BC86C2416166}|BulkyWeb\\BulkyWeb.csproj|solutionrelative:bulkyweb\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C3A9D44-218C-4D30-B644-BC86C2416166}|BulkyWeb\\BulkyWeb.csproj|c:\\users\\pranjal.misra\\desktop\\pm\\dotnet\\bulky\\bulky\\bulkyweb\\views\\shared\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3C3A9D44-218C-4D30-B644-BC86C2416166}|BulkyWeb\\BulkyWeb.csproj|solutionrelative:bulkyweb\\views\\shared\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C3A9D44-218C-4D30-B644-BC86C2416166}|BulkyWeb\\BulkyWeb.csproj|c:\\users\\pranjal.misra\\desktop\\pm\\dotnet\\bulky\\bulky\\bulkyweb\\areas\\customer\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3C3A9D44-218C-4D30-B644-BC86C2416166}|BulkyWeb\\BulkyWeb.csproj|solutionrelative:bulkyweb\\areas\\customer\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C3A9D44-218C-4D30-B644-BC86C2416166}|BulkyWeb\\BulkyWeb.csproj|c:\\users\\pranjal.misra\\desktop\\pm\\dotnet\\bulky\\bulky\\bulkyweb\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3C3A9D44-218C-4D30-B644-BC86C2416166}|BulkyWeb\\BulkyWeb.csproj|solutionrelative:bulkyweb\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D36DE09-ADF2-421B-B010-04D039EA3F9D}|Bulky.Utility\\Bulky.Utility.csproj|c:\\users\\pranjal.misra\\desktop\\pm\\dotnet\\bulky\\bulky\\bulky.utility\\emailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D36DE09-ADF2-421B-B010-04D039EA3F9D}|Bulky.Utility\\Bulky.Utility.csproj|solutionrelative:bulky.utility\\emailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D36DE09-ADF2-421B-B010-04D039EA3F9D}|Bulky.Utility\\Bulky.Utility.csproj|c:\\users\\pranjal.misra\\desktop\\pm\\dotnet\\bulky\\bulky\\bulky.utility\\sd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D36DE09-ADF2-421B-B010-04D039EA3F9D}|Bulky.Utility\\Bulky.Utility.csproj|solutionrelative:bulky.utility\\sd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C3A9D44-218C-4D30-B644-BC86C2416166}|BulkyWeb\\BulkyWeb.csproj|c:\\users\\pranjal.misra\\desktop\\pm\\dotnet\\bulky\\bulky\\bulkyweb\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{3C3A9D44-218C-4D30-B644-BC86C2416166}|BulkyWeb\\BulkyWeb.csproj|solutionrelative:bulkyweb\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C3A9D44-218C-4D30-B644-BC86C2416166}|BulkyWeb\\BulkyWeb.csproj|c:\\users\\pranjal.misra\\desktop\\pm\\dotnet\\bulky\\bulky\\bulkyweb\\areas\\customer\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3C3A9D44-218C-4D30-B644-BC86C2416166}|BulkyWeb\\BulkyWeb.csproj|solutionrelative:bulkyweb\\areas\\customer\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3C3A9D44-218C-4D30-B644-BC86C2416166}|BulkyWeb\\BulkyWeb.csproj|c:\\users\\pranjal.misra\\desktop\\pm\\dotnet\\bulky\\bulky\\bulkyweb\\areas\\admin\\views\\category\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -75,68 +311,8 @@
       "RelativeMoniker": "D:0:0:{3C3A9D44-218C-4D30-B644-BC86C2416166}|BulkyWeb\\BulkyWeb.csproj|solutionrelative:bulkyweb\\areas\\customer\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3C3A9D44-218C-4D30-B644-BC86C2416166}|BulkyWeb\\BulkyWeb.csproj|c:\\users\\pranjal.misra\\desktop\\pm\\dotnet\\bulky\\bulky\\bulkyweb\\areas\\admin\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3C3A9D44-218C-4D30-B644-BC86C2416166}|BulkyWeb\\BulkyWeb.csproj|solutionrelative:bulkyweb\\areas\\admin\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3C3A9D44-218C-4D30-B644-BC86C2416166}|BulkyWeb\\BulkyWeb.csproj|c:\\users\\pranjal.misra\\desktop\\pm\\dotnet\\bulky\\bulky\\bulkyweb\\areas\\admin\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3C3A9D44-218C-4D30-B644-BC86C2416166}|BulkyWeb\\BulkyWeb.csproj|solutionrelative:bulkyweb\\areas\\admin\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3C3A9D44-218C-4D30-B644-BC86C2416166}|BulkyWeb\\BulkyWeb.csproj|c:\\users\\pranjal.misra\\desktop\\pm\\dotnet\\bulky\\bulky\\bulkyweb\\wwwroot\\js\\product.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{3C3A9D44-218C-4D30-B644-BC86C2416166}|BulkyWeb\\BulkyWeb.csproj|solutionrelative:bulkyweb\\wwwroot\\js\\product.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3C3A9D44-218C-4D30-B644-BC86C2416166}|BulkyWeb\\BulkyWeb.csproj|c:\\users\\pranjal.misra\\desktop\\pm\\dotnet\\bulky\\bulky\\bulkyweb\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{3C3A9D44-218C-4D30-B644-BC86C2416166}|BulkyWeb\\BulkyWeb.csproj|solutionrelative:bulkyweb\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E9CB2DE0-9DBF-4FC4-8611-5CC8D39CFCC0}|Bulky.DataAccess\\Bulky.DataAccess.csproj|c:\\users\\pranjal.misra\\desktop\\pm\\dotnet\\bulky\\bulky\\bulky.dataaccess\\repository\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E9CB2DE0-9DBF-4FC4-8611-5CC8D39CFCC0}|Bulky.DataAccess\\Bulky.DataAccess.csproj|solutionrelative:bulky.dataaccess\\repository\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E9CB2DE0-9DBF-4FC4-8611-5CC8D39CFCC0}|Bulky.DataAccess\\Bulky.DataAccess.csproj|c:\\users\\pranjal.misra\\desktop\\pm\\dotnet\\bulky\\bulky\\bulky.dataaccess\\repository\\irepository\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E9CB2DE0-9DBF-4FC4-8611-5CC8D39CFCC0}|Bulky.DataAccess\\Bulky.DataAccess.csproj|solutionrelative:bulky.dataaccess\\repository\\irepository\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E9CB2DE0-9DBF-4FC4-8611-5CC8D39CFCC0}|Bulky.DataAccess\\Bulky.DataAccess.csproj|c:\\users\\pranjal.misra\\desktop\\pm\\dotnet\\bulky\\bulky\\bulky.dataaccess\\repository\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E9CB2DE0-9DBF-4FC4-8611-5CC8D39CFCC0}|Bulky.DataAccess\\Bulky.DataAccess.csproj|solutionrelative:bulky.dataaccess\\repository\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E9CB2DE0-9DBF-4FC4-8611-5CC8D39CFCC0}|Bulky.DataAccess\\Bulky.DataAccess.csproj|c:\\users\\pranjal.misra\\desktop\\pm\\dotnet\\bulky\\bulky\\bulky.dataaccess\\repository\\irepository\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E9CB2DE0-9DBF-4FC4-8611-5CC8D39CFCC0}|Bulky.DataAccess\\Bulky.DataAccess.csproj|solutionrelative:bulky.dataaccess\\repository\\irepository\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3C3A9D44-218C-4D30-B644-BC86C2416166}|BulkyWeb\\BulkyWeb.csproj|c:\\users\\pranjal.misra\\desktop\\pm\\dotnet\\bulky\\bulky\\bulkyweb\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{3C3A9D44-218C-4D30-B644-BC86C2416166}|BulkyWeb\\BulkyWeb.csproj|solutionrelative:bulkyweb\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FD6B1AA2-1D60-472B-A87F-1283D4E64C90}|Bulky.Models\\Bulky.Models.csproj|c:\\users\\pranjal.misra\\desktop\\pm\\dotnet\\bulky\\bulky\\bulky.models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FD6B1AA2-1D60-472B-A87F-1283D4E64C90}|Bulky.Models\\Bulky.Models.csproj|solutionrelative:bulky.models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FD6B1AA2-1D60-472B-A87F-1283D4E64C90}|Bulky.Models\\Bulky.Models.csproj|c:\\users\\pranjal.misra\\desktop\\pm\\dotnet\\bulky\\bulky\\bulky.models\\viewmodels\\productvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FD6B1AA2-1D60-472B-A87F-1283D4E64C90}|Bulky.Models\\Bulky.Models.csproj|solutionrelative:bulky.models\\viewmodels\\productvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FD6B1AA2-1D60-472B-A87F-1283D4E64C90}|Bulky.Models\\Bulky.Models.csproj|c:\\users\\pranjal.misra\\desktop\\pm\\dotnet\\bulky\\bulky\\bulky.models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FD6B1AA2-1D60-472B-A87F-1283D4E64C90}|Bulky.Models\\Bulky.Models.csproj|solutionrelative:bulky.models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3C3A9D44-218C-4D30-B644-BC86C2416166}|BulkyWeb\\BulkyWeb.csproj|c:\\users\\pranjal.misra\\desktop\\pm\\dotnet\\bulky\\bulky\\bulkyweb\\areas\\customer\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{3C3A9D44-218C-4D30-B644-BC86C2416166}|BulkyWeb\\BulkyWeb.csproj|solutionrelative:bulkyweb\\areas\\customer\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3C3A9D44-218C-4D30-B644-BC86C2416166}|BulkyWeb\\BulkyWeb.csproj|c:\\users\\pranjal.misra\\desktop\\pm\\dotnet\\bulky\\bulky\\bulkyweb\\views\\shared\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{3C3A9D44-218C-4D30-B644-BC86C2416166}|BulkyWeb\\BulkyWeb.csproj|solutionrelative:bulkyweb\\views\\shared\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{FD6B1AA2-1D60-472B-A87F-1283D4E64C90}|Bulky.Models\\Bulky.Models.csproj|c:\\users\\pranjal.misra\\desktop\\pm\\dotnet\\bulky\\bulky\\bulky.models\\bulky.models.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{FD6B1AA2-1D60-472B-A87F-1283D4E64C90}|Bulky.Models\\Bulky.Models.csproj|solutionrelative:bulky.models\\bulky.models.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E9CB2DE0-9DBF-4FC4-8611-5CC8D39CFCC0}|Bulky.DataAccess\\Bulky.DataAccess.csproj|c:\\users\\pranjal.misra\\desktop\\pm\\dotnet\\bulky\\bulky\\bulky.dataaccess\\repository\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E9CB2DE0-9DBF-4FC4-8611-5CC8D39CFCC0}|Bulky.DataAccess\\Bulky.DataAccess.csproj|solutionrelative:bulky.dataaccess\\repository\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\pranjal.misra\\Desktop\\PM\\dotNet\\Bulky\\Bulky\\Bulky.DataAccess\\Migrations\\20240408054827_addForeignKeyForCategoryProductRelation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -153,18 +329,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{3C3A9D44-218C-4D30-B644-BC86C2416166}|BulkyWeb\\BulkyWeb.csproj|c:\\users\\pranjal.misra\\desktop\\pm\\dotnet\\bulky\\bulky\\bulkyweb\\views\\shared\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{3C3A9D44-218C-4D30-B644-BC86C2416166}|BulkyWeb\\BulkyWeb.csproj|solutionrelative:bulkyweb\\views\\shared\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E9CB2DE0-9DBF-4FC4-8611-5CC8D39CFCC0}|Bulky.DataAccess\\Bulky.DataAccess.csproj|c:\\users\\pranjal.misra\\desktop\\pm\\dotnet\\bulky\\bulky\\bulky.dataaccess\\repository\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E9CB2DE0-9DBF-4FC4-8611-5CC8D39CFCC0}|Bulky.DataAccess\\Bulky.DataAccess.csproj|solutionrelative:bulky.dataaccess\\repository\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E9CB2DE0-9DBF-4FC4-8611-5CC8D39CFCC0}|Bulky.DataAccess\\Bulky.DataAccess.csproj|c:\\users\\pranjal.misra\\desktop\\pm\\dotnet\\bulky\\bulky\\bulky.dataaccess\\repository\\irepository\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E9CB2DE0-9DBF-4FC4-8611-5CC8D39CFCC0}|Bulky.DataAccess\\Bulky.DataAccess.csproj|solutionrelative:bulky.dataaccess\\repository\\irepository\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E9CB2DE0-9DBF-4FC4-8611-5CC8D39CFCC0}|Bulky.DataAccess\\Bulky.DataAccess.csproj|c:\\users\\pranjal.misra\\desktop\\pm\\dotnet\\bulky\\bulky\\bulky.dataaccess\\repository\\irepository\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E9CB2DE0-9DBF-4FC4-8611-5CC8D39CFCC0}|Bulky.DataAccess\\Bulky.DataAccess.csproj|solutionrelative:bulky.dataaccess\\repository\\irepository\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3C3A9D44-218C-4D30-B644-BC86C2416166}|BulkyWeb\\BulkyWeb.csproj|c:\\users\\pranjal.misra\\desktop\\pm\\dotnet\\bulky\\bulky\\bulkyweb\\areas\\customer\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -187,14 +351,6 @@
       "RelativeMoniker": "D:0:0:{FD6B1AA2-1D60-472B-A87F-1283D4E64C90}|Bulky.Models\\Bulky.Models.csproj|solutionrelative:bulky.models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5D36DE09-ADF2-421B-B010-04D039EA3F9D}|Bulky.Utility\\Bulky.Utility.csproj|c:\\users\\pranjal.misra\\desktop\\pm\\dotnet\\bulky\\bulky\\bulky.utility\\sd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5D36DE09-ADF2-421B-B010-04D039EA3F9D}|Bulky.Utility\\Bulky.Utility.csproj|solutionrelative:bulky.utility\\sd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3C3A9D44-218C-4D30-B644-BC86C2416166}|BulkyWeb\\BulkyWeb.csproj|c:\\users\\pranjal.misra\\desktop\\pm\\dotnet\\bulky\\bulky\\bulkyweb\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{3C3A9D44-218C-4D30-B644-BC86C2416166}|BulkyWeb\\BulkyWeb.csproj|solutionrelative:bulkyweb\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{3C3A9D44-218C-4D30-B644-BC86C2416166}|BulkyWeb\\BulkyWeb.csproj|c:\\users\\pranjal.misra\\desktop\\pm\\dotnet\\bulky\\bulky\\bulkyweb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{3C3A9D44-218C-4D30-B644-BC86C2416166}|BulkyWeb\\BulkyWeb.csproj|solutionrelative:bulkyweb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
@@ -203,16 +359,28 @@
       "RelativeMoniker": "D:0:0:{3C3A9D44-218C-4D30-B644-BC86C2416166}|BulkyWeb\\BulkyWeb.csproj|solutionrelative:bulkyweb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3C3A9D44-218C-4D30-B644-BC86C2416166}|BulkyWeb\\BulkyWeb.csproj|c:\\users\\pranjal.misra\\desktop\\pm\\dotnet\\bulky\\bulky\\bulkyweb\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{3C3A9D44-218C-4D30-B644-BC86C2416166}|BulkyWeb\\BulkyWeb.csproj|solutionrelative:bulkyweb\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{E9CB2DE0-9DBF-4FC4-8611-5CC8D39CFCC0}|Bulky.DataAccess\\Bulky.DataAccess.csproj|c:\\users\\pranjal.misra\\desktop\\pm\\dotnet\\bulky\\bulky\\bulky.dataaccess\\migrations\\20240523121034_addedcompanytoapp1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9CB2DE0-9DBF-4FC4-8611-5CC8D39CFCC0}|Bulky.DataAccess\\Bulky.DataAccess.csproj|solutionrelative:bulky.dataaccess\\migrations\\20240523121034_addedcompanytoapp1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E9CB2DE0-9DBF-4FC4-8611-5CC8D39CFCC0}|Bulky.DataAccess\\Bulky.DataAccess.csproj|c:\\users\\pranjal.misra\\desktop\\pm\\dotnet\\bulky\\bulky\\bulky.dataaccess\\migrations\\20240414134248_addimageurltoproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E9CB2DE0-9DBF-4FC4-8611-5CC8D39CFCC0}|Bulky.DataAccess\\Bulky.DataAccess.csproj|solutionrelative:bulky.dataaccess\\migrations\\20240414134248_addimageurltoproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E9CB2DE0-9DBF-4FC4-8611-5CC8D39CFCC0}|Bulky.DataAccess\\Bulky.DataAccess.csproj|c:\\users\\pranjal.misra\\desktop\\pm\\dotnet\\bulky\\bulky\\bulky.dataaccess\\migrations\\20240523115704_addedcompanytoapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9CB2DE0-9DBF-4FC4-8611-5CC8D39CFCC0}|Bulky.DataAccess\\Bulky.DataAccess.csproj|solutionrelative:bulky.dataaccess\\migrations\\20240523115704_addedcompanytoapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\pranjal.misra\\Desktop\\PM\\dotNet\\Bulky\\Bulky\\Bulky.Models\\ApplicationUser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Bulky.Models\\ApplicationUser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E9CB2DE0-9DBF-4FC4-8611-5CC8D39CFCC0}|Bulky.DataAccess\\Bulky.DataAccess.csproj|c:\\users\\pranjal.misra\\desktop\\pm\\dotnet\\bulky\\bulky\\bulky.dataaccess\\repository\\irepository\\iapplicationuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9CB2DE0-9DBF-4FC4-8611-5CC8D39CFCC0}|Bulky.DataAccess\\Bulky.DataAccess.csproj|solutionrelative:bulky.dataaccess\\repository\\irepository\\iapplicationuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9CB2DE0-9DBF-4FC4-8611-5CC8D39CFCC0}|Bulky.DataAccess\\Bulky.DataAccess.csproj|c:\\users\\pranjal.misra\\desktop\\pm\\dotnet\\bulky\\bulky\\bulky.dataaccess\\migrations\\20240524062722_addshoppingcarttodb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9CB2DE0-9DBF-4FC4-8611-5CC8D39CFCC0}|Bulky.DataAccess\\Bulky.DataAccess.csproj|solutionrelative:bulky.dataaccess\\migrations\\20240524062722_addshoppingcarttodb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9CB2DE0-9DBF-4FC4-8611-5CC8D39CFCC0}|Bulky.DataAccess\\Bulky.DataAccess.csproj|c:\\users\\pranjal.misra\\desktop\\pm\\dotnet\\bulky\\bulky\\bulky.dataaccess\\repository\\irepository\\iorderdetailsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9CB2DE0-9DBF-4FC4-8611-5CC8D39CFCC0}|Bulky.DataAccess\\Bulky.DataAccess.csproj|solutionrelative:bulky.dataaccess\\repository\\irepository\\iorderdetailsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9CB2DE0-9DBF-4FC4-8611-5CC8D39CFCC0}|Bulky.DataAccess\\Bulky.DataAccess.csproj|c:\\users\\pranjal.misra\\desktop\\pm\\dotnet\\bulky\\bulky\\bulky.dataaccess\\migrations\\20240605103255_addsessionidorderheader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9CB2DE0-9DBF-4FC4-8611-5CC8D39CFCC0}|Bulky.DataAccess\\Bulky.DataAccess.csproj|solutionrelative:bulky.dataaccess\\migrations\\20240605103255_addsessionidorderheader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -226,7 +394,7 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 75,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\Users\\pranjal.misra\\Desktop\\PM\\dotNet\\Bulky\\Bulky\\BulkyWeb\\Areas\\Admin\\Views\\Category\\Create.cshtml",
               "RelativeDocumentMoniker": "BulkyWeb\\Areas\\Admin\\Views\\Category\\Create.cshtml",
@@ -240,163 +408,261 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Register.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\pranjal.misra\\Desktop\\PM\\dotNet\\Bulky\\Bulky\\BulkyWeb\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
-              "RelativeDocumentMoniker": "BulkyWeb\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
-              "ToolTip": "C:\\Users\\pranjal.misra\\Desktop\\PM\\dotNet\\Bulky\\Bulky\\BulkyWeb\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
-              "RelativeToolTip": "BulkyWeb\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
-              "ViewState": "AQIAAJUAAAAAAAAAAAAuwJcAAAANAAAA",
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "C:\\Users\\pranjal.misra\\Desktop\\PM\\dotNet\\Bulky\\Bulky\\BulkyWeb\\Areas\\Admin\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "BulkyWeb\\Areas\\Admin\\Controllers\\OrderController.cs",
+              "ToolTip": "C:\\Users\\pranjal.misra\\Desktop\\PM\\dotNet\\Bulky\\Bulky\\BulkyWeb\\Areas\\Admin\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "BulkyWeb\\Areas\\Admin\\Controllers\\OrderController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-07T06:20:42.295Z",
+              "WhenOpened": "2024-06-05T14:19:42Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\pranjal.misra\\Desktop\\PM\\dotNet\\Bulky\\Bulky\\Bulky.DataAccess\\Repository\\IRepository\\IRepository.cs",
+              "RelativeDocumentMoniker": "Bulky.DataAccess\\Repository\\IRepository\\IRepository.cs",
+              "ToolTip": "C:\\Users\\pranjal.misra\\Desktop\\PM\\dotNet\\Bulky\\Bulky\\Bulky.DataAccess\\Repository\\IRepository\\IRepository.cs",
+              "RelativeToolTip": "Bulky.DataAccess\\Repository\\IRepository\\IRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T04:57:33.543Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OrderVM.cs",
+              "DocumentMoniker": "C:\\Users\\pranjal.misra\\Desktop\\PM\\dotNet\\Bulky\\Bulky\\Bulky.Models\\ViewModels\\OrderVM.cs",
+              "RelativeDocumentMoniker": "Bulky.Models\\ViewModels\\OrderVM.cs",
+              "ToolTip": "C:\\Users\\pranjal.misra\\Desktop\\PM\\dotNet\\Bulky\\Bulky\\Bulky.Models\\ViewModels\\OrderVM.cs",
+              "RelativeToolTip": "Bulky.Models\\ViewModels\\OrderVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T19:26:16.81Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "OrderDetailsRepository.cs",
+              "DocumentMoniker": "C:\\Users\\pranjal.misra\\Desktop\\PM\\dotNet\\Bulky\\Bulky\\Bulky.DataAccess\\Repository\\OrderDetailsRepository.cs",
+              "RelativeDocumentMoniker": "Bulky.DataAccess\\Repository\\OrderDetailsRepository.cs",
+              "ToolTip": "C:\\Users\\pranjal.misra\\Desktop\\PM\\dotNet\\Bulky\\Bulky\\Bulky.DataAccess\\Repository\\OrderDetailsRepository.cs",
+              "RelativeToolTip": "Bulky.DataAccess\\Repository\\OrderDetailsRepository.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAD4vxAAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T09:17:54.425Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\pranjal.misra\\Desktop\\PM\\dotNet\\Bulky\\Bulky\\Bulky.DataAccess\\Repository\\IRepository\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "Bulky.DataAccess\\Repository\\IRepository\\IUnitOfWork.cs",
+              "ToolTip": "C:\\Users\\pranjal.misra\\Desktop\\PM\\dotNet\\Bulky\\Bulky\\Bulky.DataAccess\\Repository\\IRepository\\IUnitOfWork.cs",
+              "RelativeToolTip": "Bulky.DataAccess\\Repository\\IRepository\\IUnitOfWork.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwA4AAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T10:26:48.189Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "20240507034153_ExtendIdentityUser.cs",
-              "DocumentMoniker": "C:\\Users\\pranjal.misra\\Desktop\\PM\\dotNet\\Bulky\\Bulky\\Bulky.DataAccess\\Migrations\\20240507034153_ExtendIdentityUser.cs",
-              "RelativeDocumentMoniker": "Bulky.DataAccess\\Migrations\\20240507034153_ExtendIdentityUser.cs",
-              "ToolTip": "C:\\Users\\pranjal.misra\\Desktop\\PM\\dotNet\\Bulky\\Bulky\\Bulky.DataAccess\\Migrations\\20240507034153_ExtendIdentityUser.cs",
-              "RelativeToolTip": "Bulky.DataAccess\\Migrations\\20240507034153_ExtendIdentityUser.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\Users\\pranjal.misra\\Desktop\\PM\\dotNet\\Bulky\\Bulky\\Bulky.DataAccess\\Repository\\Repository.cs",
+              "RelativeDocumentMoniker": "Bulky.DataAccess\\Repository\\Repository.cs",
+              "ToolTip": "C:\\Users\\pranjal.misra\\Desktop\\PM\\dotNet\\Bulky\\Bulky\\Bulky.DataAccess\\Repository\\Repository.cs",
+              "RelativeToolTip": "Bulky.DataAccess\\Repository\\Repository.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAACoAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-07T03:41:53.58Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 52,
-              "Title": "ApplicationUser.cs",
-              "DocumentMoniker": "C:\\Users\\pranjal.misra\\Desktop\\PM\\dotNet\\Bulky\\Bulky\\Bulky.Models\\ApplicationUser.cs",
-              "RelativeDocumentMoniker": "Bulky.Models\\ApplicationUser.cs",
-              "ToolTip": "C:\\Users\\pranjal.misra\\Desktop\\PM\\dotNet\\Bulky\\Bulky\\Bulky.Models\\ApplicationUser.cs",
-              "RelativeToolTip": "Bulky.Models\\ApplicationUser.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-07T03:35:45.745Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "20240506074103_addIdentityTables.cs",
-              "DocumentMoniker": "C:\\Users\\pranjal.misra\\Desktop\\PM\\dotNet\\Bulky\\Bulky\\Bulky.DataAccess\\Migrations\\20240506074103_addIdentityTables.cs",
-              "RelativeDocumentMoniker": "Bulky.DataAccess\\Migrations\\20240506074103_addIdentityTables.cs",
-              "ToolTip": "C:\\Users\\pranjal.misra\\Desktop\\PM\\dotNet\\Bulky\\Bulky\\Bulky.DataAccess\\Migrations\\20240506074103_addIdentityTables.cs",
-              "RelativeToolTip": "Bulky.DataAccess\\Migrations\\20240506074103_addIdentityTables.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-06T07:41:03.828Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\pranjal.misra\\Desktop\\PM\\dotNet\\Bulky\\Bulky\\BulkyWeb\\Areas\\Admin\\Views\\Product\\Index.cshtml",
-              "RelativeDocumentMoniker": "BulkyWeb\\Areas\\Admin\\Views\\Product\\Index.cshtml",
-              "ToolTip": "C:\\Users\\pranjal.misra\\Desktop\\PM\\dotNet\\Bulky\\Bulky\\BulkyWeb\\Areas\\Admin\\Views\\Product\\Index.cshtml",
-              "RelativeToolTip": "BulkyWeb\\Areas\\Admin\\Views\\Product\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAADEAAAAXAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-04T10:44:12.223Z"
+              "WhenOpened": "2024-03-27T05:11:02.646Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\pranjal.misra\\Desktop\\PM\\dotNet\\Bulky\\Bulky\\BulkyWeb\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "BulkyWeb\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\pranjal.misra\\Desktop\\PM\\dotNet\\Bulky\\Bulky\\BulkyWeb\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "BulkyWeb\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAewCoAAAAzAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-13T08:53:19.766Z"
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\pranjal.misra\\Desktop\\PM\\dotNet\\Bulky\\Bulky\\Bulky.DataAccess\\Repository\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "Bulky.DataAccess\\Repository\\UnitOfWork.cs",
+              "ToolTip": "C:\\Users\\pranjal.misra\\Desktop\\PM\\dotNet\\Bulky\\Bulky\\Bulky.DataAccess\\Repository\\UnitOfWork.cs",
+              "RelativeToolTip": "Bulky.DataAccess\\Repository\\UnitOfWork.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAowB8AAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T10:30:33.024Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\pranjal.misra\\Desktop\\PM\\dotNet\\Bulky\\Bulky\\BulkyWeb\\Areas\\Admin\\Views\\Order\\Index.cshtml",
+              "RelativeDocumentMoniker": "BulkyWeb\\Areas\\Admin\\Views\\Order\\Index.cshtml",
+              "ToolTip": "C:\\Users\\pranjal.misra\\Desktop\\PM\\dotNet\\Bulky\\Bulky\\BulkyWeb\\Areas\\Admin\\Views\\Order\\Index.cshtml",
+              "RelativeToolTip": "BulkyWeb\\Areas\\Admin\\Views\\Order\\Index.cshtml",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAACAAAABUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-06T19:29:51.488Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Product.js",
+              "DocumentMoniker": "C:\\Users\\pranjal.misra\\Desktop\\PM\\dotNet\\Bulky\\Bulky\\BulkyWeb\\wwwroot\\js\\Product.js",
+              "RelativeDocumentMoniker": "BulkyWeb\\wwwroot\\js\\Product.js",
+              "ToolTip": "C:\\Users\\pranjal.misra\\Desktop\\PM\\dotNet\\Bulky\\Bulky\\BulkyWeb\\wwwroot\\js\\Product.js",
+              "RelativeToolTip": "BulkyWeb\\wwwroot\\js\\Product.js",
+              "ViewState": "AQIAABgAAAAAAAAAAAAowC8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-05-02T12:16:14.848Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "OrderHeader.cs",
+              "DocumentMoniker": "C:\\Users\\pranjal.misra\\Desktop\\PM\\dotNet\\Bulky\\Bulky\\Bulky.Models\\OrderHeader.cs",
+              "RelativeDocumentMoniker": "Bulky.Models\\OrderHeader.cs",
+              "ToolTip": "C:\\Users\\pranjal.misra\\Desktop\\PM\\dotNet\\Bulky\\Bulky\\Bulky.Models\\OrderHeader.cs",
+              "RelativeToolTip": "Bulky.Models\\OrderHeader.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T07:57:21.879Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\pranjal.misra\\Desktop\\PM\\dotNet\\Bulky\\Bulky\\BulkyWeb\\Program.cs",
               "RelativeDocumentMoniker": "BulkyWeb\\Program.cs",
               "ToolTip": "C:\\Users\\pranjal.misra\\Desktop\\PM\\dotNet\\Bulky\\Bulky\\BulkyWeb\\Program.cs",
               "RelativeToolTip": "BulkyWeb\\Program.cs",
-              "ViewState": "AQIAAA8AAAAAAAAAAAAAACEAAABHAAAA",
+              "ViewState": "AQIAABAAAAAAAAAAAAAxwCUAAABgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-12T14:02:57.885Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\pranjal.misra\\Desktop\\PM\\dotNet\\Bulky\\Bulky\\Bulky.DataAccess\\Data\\ApplicationDbContext.cs",
-              "RelativeDocumentMoniker": "Bulky.DataAccess\\Data\\ApplicationDbContext.cs",
-              "ToolTip": "C:\\Users\\pranjal.misra\\Desktop\\PM\\dotNet\\Bulky\\Bulky\\Bulky.DataAccess\\Data\\ApplicationDbContext.cs",
-              "RelativeToolTip": "Bulky.DataAccess\\Data\\ApplicationDbContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAA0AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-26T10:11:13.706Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "_LoginPartial.cshtml",
-              "DocumentMoniker": "C:\\Users\\pranjal.misra\\Desktop\\PM\\dotNet\\Bulky\\Bulky\\BulkyWeb\\Views\\Shared\\_LoginPartial.cshtml",
-              "RelativeDocumentMoniker": "BulkyWeb\\Views\\Shared\\_LoginPartial.cshtml",
-              "ToolTip": "C:\\Users\\pranjal.misra\\Desktop\\PM\\dotNet\\Bulky\\Bulky\\BulkyWeb\\Views\\Shared\\_LoginPartial.cshtml",
-              "RelativeToolTip": "BulkyWeb\\Views\\Shared\\_LoginPartial.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAaAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-06T05:41:50.57Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\pranjal.misra\\Desktop\\PM\\dotNet\\Bulky\\Bulky\\BulkyWeb\\Areas\\Customer\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "BulkyWeb\\Areas\\Customer\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\pranjal.misra\\Desktop\\PM\\dotNet\\Bulky\\Bulky\\BulkyWeb\\Areas\\Customer\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "BulkyWeb\\Areas\\Customer\\Controllers\\HomeController.cs",
-              "ViewState": "AQIAAAsAAAAAAAAAAAAQwB0AAAAfAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-26T10:58:10.421Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "Edit.cshtml",
-              "DocumentMoniker": "C:\\Users\\pranjal.misra\\Desktop\\PM\\dotNet\\Bulky\\Bulky\\BulkyWeb\\Areas\\Admin\\Views\\Category\\Edit.cshtml",
-              "RelativeDocumentMoniker": "BulkyWeb\\Areas\\Admin\\Views\\Category\\Edit.cshtml",
-              "ToolTip": "C:\\Users\\pranjal.misra\\Desktop\\PM\\dotNet\\Bulky\\Bulky\\BulkyWeb\\Areas\\Admin\\Views\\Category\\Edit.cshtml",
-              "RelativeToolTip": "BulkyWeb\\Areas\\Admin\\Views\\Category\\Edit.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACkAAAAGAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-20T05:32:32.883Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "ScaffoldingReadMe.txt",
-              "DocumentMoniker": "C:\\Users\\pranjal.misra\\Desktop\\PM\\dotNet\\Bulky\\Bulky\\BulkyWeb\\ScaffoldingReadMe.txt",
-              "RelativeDocumentMoniker": "BulkyWeb\\ScaffoldingReadMe.txt",
-              "ToolTip": "C:\\Users\\pranjal.misra\\Desktop\\PM\\dotNet\\Bulky\\Bulky\\BulkyWeb\\ScaffoldingReadMe.txt",
-              "RelativeToolTip": "BulkyWeb\\ScaffoldingReadMe.txt",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAABdAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2024-03-29T07:27:26.111Z"
+              "DocumentIndex": 8,
+              "Title": "Order.js",
+              "DocumentMoniker": "C:\\Users\\pranjal.misra\\Desktop\\PM\\dotNet\\Bulky\\Bulky\\BulkyWeb\\wwwroot\\js\\Order.js",
+              "RelativeDocumentMoniker": "BulkyWeb\\wwwroot\\js\\Order.js",
+              "ToolTip": "C:\\Users\\pranjal.misra\\Desktop\\PM\\dotNet\\Bulky\\Bulky\\BulkyWeb\\wwwroot\\js\\Order.js",
+              "RelativeToolTip": "BulkyWeb\\wwwroot\\js\\Order.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-06-06T19:31:58.152Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 11,
-              "Title": "Upsert.cshtml",
-              "DocumentMoniker": "C:\\Users\\pranjal.misra\\Desktop\\PM\\dotNet\\Bulky\\Bulky\\BulkyWeb\\Areas\\Admin\\Views\\Product\\Upsert.cshtml",
-              "RelativeDocumentMoniker": "BulkyWeb\\Areas\\Admin\\Views\\Product\\Upsert.cshtml",
-              "ToolTip": "C:\\Users\\pranjal.misra\\Desktop\\PM\\dotNet\\Bulky\\Bulky\\BulkyWeb\\Areas\\Admin\\Views\\Product\\Upsert.cshtml",
-              "RelativeToolTip": "BulkyWeb\\Areas\\Admin\\Views\\Product\\Upsert.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGAAAAAFAAAA",
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\pranjal.misra\\Desktop\\PM\\dotNet\\Bulky\\Bulky\\BulkyWeb\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "BulkyWeb\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\pranjal.misra\\Desktop\\PM\\dotNet\\Bulky\\Bulky\\BulkyWeb\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "BulkyWeb\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAACMAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-04T10:40:07.795Z"
+              "WhenOpened": "2024-03-13T08:53:19.766Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\pranjal.misra\\Desktop\\PM\\dotNet\\Bulky\\Bulky\\BulkyWeb\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "BulkyWeb\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\Users\\pranjal.misra\\Desktop\\PM\\dotNet\\Bulky\\Bulky\\BulkyWeb\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "BulkyWeb\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "ViewState": "AQIAAG4AAAAAAAAAAAASwBcAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T10:42:57.262Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\pranjal.misra\\Desktop\\PM\\dotNet\\Bulky\\Bulky\\BulkyWeb\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "BulkyWeb\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\pranjal.misra\\Desktop\\PM\\dotNet\\Bulky\\Bulky\\BulkyWeb\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "BulkyWeb\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAKMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T05:21:00.729Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 13,
+              "Title": "CompanyController.cs",
+              "DocumentMoniker": "C:\\Users\\pranjal.misra\\Desktop\\PM\\dotNet\\Bulky\\Bulky\\BulkyWeb\\Areas\\Admin\\Controllers\\CompanyController.cs",
+              "RelativeDocumentMoniker": "BulkyWeb\\Areas\\Admin\\Controllers\\CompanyController.cs",
+              "ToolTip": "C:\\Users\\pranjal.misra\\Desktop\\PM\\dotNet\\Bulky\\Bulky\\BulkyWeb\\Areas\\Admin\\Controllers\\CompanyController.cs",
+              "RelativeToolTip": "BulkyWeb\\Areas\\Admin\\Controllers\\CompanyController.cs",
+              "ViewState": "AQIAAGAAAAAAAAAAAADgvx0AAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T09:58:55.828Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\pranjal.misra\\Desktop\\PM\\dotNet\\Bulky\\Bulky\\BulkyWeb\\Areas\\Customer\\Views\\Cart\\Index.cshtml",
+              "RelativeDocumentMoniker": "BulkyWeb\\Areas\\Customer\\Views\\Cart\\Index.cshtml",
+              "ToolTip": "C:\\Users\\pranjal.misra\\Desktop\\PM\\dotNet\\Bulky\\Bulky\\BulkyWeb\\Areas\\Customer\\Views\\Cart\\Index.cshtml",
+              "RelativeToolTip": "BulkyWeb\\Areas\\Customer\\Views\\Cart\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEUAAABYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-28T16:15:18.996Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\pranjal.misra\\Desktop\\PM\\dotNet\\Bulky\\Bulky\\BulkyWeb\\Areas\\Admin\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "BulkyWeb\\Areas\\Admin\\Views\\Product\\Index.cshtml",
+              "ToolTip": "C:\\Users\\pranjal.misra\\Desktop\\PM\\dotNet\\Bulky\\Bulky\\BulkyWeb\\Areas\\Admin\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "BulkyWeb\\Areas\\Admin\\Views\\Product\\Index.cshtml",
+              "ViewState": "AQIAABQAAAAAAAAAAAAkwBsAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-04T10:44:12.223Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\pranjal.misra\\Desktop\\PM\\dotNet\\Bulky\\Bulky\\BulkyWeb\\Areas\\Admin\\Views\\Company\\Index.cshtml",
+              "RelativeDocumentMoniker": "BulkyWeb\\Areas\\Admin\\Views\\Company\\Index.cshtml",
+              "ToolTip": "C:\\Users\\pranjal.misra\\Desktop\\PM\\dotNet\\Bulky\\Bulky\\BulkyWeb\\Areas\\Admin\\Views\\Company\\Index.cshtml",
+              "RelativeToolTip": "BulkyWeb\\Areas\\Admin\\Views\\Company\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-22T10:28:08.822Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ShoppingCartVM.cs",
+              "DocumentMoniker": "C:\\Users\\pranjal.misra\\Desktop\\PM\\dotNet\\Bulky\\Bulky\\Bulky.Models\\ViewModels\\ShoppingCartVM.cs",
+              "RelativeDocumentMoniker": "Bulky.Models\\ViewModels\\ShoppingCartVM.cs",
+              "ToolTip": "C:\\Users\\pranjal.misra\\Desktop\\PM\\dotNet\\Bulky\\Bulky\\Bulky.Models\\ViewModels\\ShoppingCartVM.cs",
+              "RelativeToolTip": "Bulky.Models\\ViewModels\\ShoppingCartVM.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAiwAoAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T11:04:59.442Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\pranjal.misra\\Desktop\\PM\\dotNet\\Bulky\\Bulky\\BulkyWeb\\Areas\\Admin\\Views\\Category\\Index.cshtml",
               "RelativeDocumentMoniker": "BulkyWeb\\Areas\\Admin\\Views\\Category\\Index.cshtml",
@@ -408,175 +674,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Details.cshtml",
-              "DocumentMoniker": "C:\\Users\\pranjal.misra\\Desktop\\PM\\dotNet\\Bulky\\Bulky\\BulkyWeb\\Areas\\Customer\\Views\\Home\\Details.cshtml",
-              "RelativeDocumentMoniker": "BulkyWeb\\Areas\\Customer\\Views\\Home\\Details.cshtml",
-              "ToolTip": "C:\\Users\\pranjal.misra\\Desktop\\PM\\dotNet\\Bulky\\Bulky\\BulkyWeb\\Areas\\Customer\\Views\\Home\\Details.cshtml",
-              "RelativeToolTip": "BulkyWeb\\Areas\\Customer\\Views\\Home\\Details.cshtml",
-              "ViewState": "AQIAADAAAAAAAAAAAIBcwEYAAABYAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-05T15:30:11.686Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "Delete.cshtml",
-              "DocumentMoniker": "C:\\Users\\pranjal.misra\\Desktop\\PM\\dotNet\\Bulky\\Bulky\\BulkyWeb\\Areas\\Admin\\Views\\Category\\Delete.cshtml",
-              "RelativeDocumentMoniker": "BulkyWeb\\Areas\\Admin\\Views\\Category\\Delete.cshtml",
-              "ToolTip": "C:\\Users\\pranjal.misra\\Desktop\\PM\\dotNet\\Bulky\\Bulky\\BulkyWeb\\Areas\\Admin\\Views\\Category\\Delete.cshtml",
-              "RelativeToolTip": "BulkyWeb\\Areas\\Admin\\Views\\Category\\Delete.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAOAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-20T06:15:55.639Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\pranjal.misra\\Desktop\\PM\\dotNet\\Bulky\\Bulky\\BulkyWeb\\Areas\\Customer\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "BulkyWeb\\Areas\\Customer\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\pranjal.misra\\Desktop\\PM\\dotNet\\Bulky\\Bulky\\BulkyWeb\\Areas\\Customer\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "BulkyWeb\\Areas\\Customer\\Views\\Home\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-13T09:15:55.245Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "Privacy.cshtml",
-              "DocumentMoniker": "C:\\Users\\pranjal.misra\\Desktop\\PM\\dotNet\\Bulky\\Bulky\\BulkyWeb\\Areas\\Customer\\Views\\Home\\Privacy.cshtml",
-              "RelativeDocumentMoniker": "BulkyWeb\\Areas\\Customer\\Views\\Home\\Privacy.cshtml",
-              "ToolTip": "C:\\Users\\pranjal.misra\\Desktop\\PM\\dotNet\\Bulky\\Bulky\\BulkyWeb\\Areas\\Customer\\Views\\Home\\Privacy.cshtml",
-              "RelativeToolTip": "BulkyWeb\\Areas\\Customer\\Views\\Home\\Privacy.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-26T11:16:07.967Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 19,
-              "Title": "CategoryController.cs",
-              "DocumentMoniker": "C:\\Users\\pranjal.misra\\Desktop\\PM\\dotNet\\Bulky\\Bulky\\BulkyWeb\\Areas\\Admin\\Controllers\\CategoryController.cs",
-              "RelativeDocumentMoniker": "BulkyWeb\\Areas\\Admin\\Controllers\\CategoryController.cs",
-              "ToolTip": "C:\\Users\\pranjal.misra\\Desktop\\PM\\dotNet\\Bulky\\Bulky\\BulkyWeb\\Areas\\Admin\\Controllers\\CategoryController.cs",
-              "RelativeToolTip": "BulkyWeb\\Areas\\Admin\\Controllers\\CategoryController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAA5AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-12T15:52:23.629Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "Product.js",
-              "DocumentMoniker": "C:\\Users\\pranjal.misra\\Desktop\\PM\\dotNet\\Bulky\\Bulky\\BulkyWeb\\wwwroot\\js\\Product.js",
-              "RelativeDocumentMoniker": "BulkyWeb\\wwwroot\\js\\Product.js",
-              "ToolTip": "C:\\Users\\pranjal.misra\\Desktop\\PM\\dotNet\\Bulky\\Bulky\\BulkyWeb\\wwwroot\\js\\Product.js",
-              "RelativeToolTip": "BulkyWeb\\wwwroot\\js\\Product.js",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACgAAAAUAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2024-05-02T12:16:14.848Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "ProductController.cs",
-              "DocumentMoniker": "C:\\Users\\pranjal.misra\\Desktop\\PM\\dotNet\\Bulky\\Bulky\\BulkyWeb\\Areas\\Admin\\Controllers\\ProductController.cs",
-              "RelativeDocumentMoniker": "BulkyWeb\\Areas\\Admin\\Controllers\\ProductController.cs",
-              "ToolTip": "C:\\Users\\pranjal.misra\\Desktop\\PM\\dotNet\\Bulky\\Bulky\\BulkyWeb\\Areas\\Admin\\Controllers\\ProductController.cs",
-              "RelativeToolTip": "BulkyWeb\\Areas\\Admin\\Controllers\\ProductController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAIBcwBgAAAAjAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-03T05:21:00.729Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "site.js",
-              "DocumentMoniker": "C:\\Users\\pranjal.misra\\Desktop\\PM\\dotNet\\Bulky\\Bulky\\BulkyWeb\\wwwroot\\js\\site.js",
-              "RelativeDocumentMoniker": "BulkyWeb\\wwwroot\\js\\site.js",
-              "ToolTip": "C:\\Users\\pranjal.misra\\Desktop\\PM\\dotNet\\Bulky\\Bulky\\BulkyWeb\\wwwroot\\js\\site.js",
-              "RelativeToolTip": "BulkyWeb\\wwwroot\\js\\site.js",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2024-03-26T06:20:09.724Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "IRepository.cs",
-              "DocumentMoniker": "C:\\Users\\pranjal.misra\\Desktop\\PM\\dotNet\\Bulky\\Bulky\\Bulky.DataAccess\\Repository\\IRepository\\IRepository.cs",
-              "RelativeDocumentMoniker": "Bulky.DataAccess\\Repository\\IRepository\\IRepository.cs",
-              "ToolTip": "C:\\Users\\pranjal.misra\\Desktop\\PM\\dotNet\\Bulky\\Bulky\\Bulky.DataAccess\\Repository\\IRepository\\IRepository.cs",
-              "RelativeToolTip": "Bulky.DataAccess\\Repository\\IRepository\\IRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABQAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-27T04:57:33.543Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "Repository.cs",
-              "DocumentMoniker": "C:\\Users\\pranjal.misra\\Desktop\\PM\\dotNet\\Bulky\\Bulky\\Bulky.DataAccess\\Repository\\Repository.cs",
-              "RelativeDocumentMoniker": "Bulky.DataAccess\\Repository\\Repository.cs",
-              "ToolTip": "C:\\Users\\pranjal.misra\\Desktop\\PM\\dotNet\\Bulky\\Bulky\\Bulky.DataAccess\\Repository\\Repository.cs",
-              "RelativeToolTip": "Bulky.DataAccess\\Repository\\Repository.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAADwvzkAAAANAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-27T05:11:02.646Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "IProductRepository.cs",
-              "DocumentMoniker": "C:\\Users\\pranjal.misra\\Desktop\\PM\\dotNet\\Bulky\\Bulky\\Bulky.DataAccess\\Repository\\IRepository\\IProductRepository.cs",
-              "RelativeDocumentMoniker": "Bulky.DataAccess\\Repository\\IRepository\\IProductRepository.cs",
-              "ToolTip": "C:\\Users\\pranjal.misra\\Desktop\\PM\\dotNet\\Bulky\\Bulky\\Bulky.DataAccess\\Repository\\IRepository\\IProductRepository.cs",
-              "RelativeToolTip": "Bulky.DataAccess\\Repository\\IRepository\\IProductRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAATAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-30T06:10:48.888Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "ProductRepository.cs",
-              "DocumentMoniker": "C:\\Users\\pranjal.misra\\Desktop\\PM\\dotNet\\Bulky\\Bulky\\Bulky.DataAccess\\Repository\\ProductRepository.cs",
-              "RelativeDocumentMoniker": "Bulky.DataAccess\\Repository\\ProductRepository.cs",
-              "ToolTip": "C:\\Users\\pranjal.misra\\Desktop\\PM\\dotNet\\Bulky\\Bulky\\Bulky.DataAccess\\Repository\\ProductRepository.cs",
-              "RelativeToolTip": "Bulky.DataAccess\\Repository\\ProductRepository.cs",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAIwCMAAAA6AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-30T06:12:59.844Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "C:\\Users\\pranjal.misra\\Desktop\\PM\\dotNet\\Bulky\\Bulky\\BulkyWeb\\Areas\\Admin\\Views\\_ViewImports.cshtml",
-              "RelativeDocumentMoniker": "BulkyWeb\\Areas\\Admin\\Views\\_ViewImports.cshtml",
-              "ToolTip": "C:\\Users\\pranjal.misra\\Desktop\\PM\\dotNet\\Bulky\\Bulky\\BulkyWeb\\Areas\\Admin\\Views\\_ViewImports.cshtml",
-              "RelativeToolTip": "BulkyWeb\\Areas\\Admin\\Views\\_ViewImports.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-26T10:59:18.14Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 27,
-              "Title": "Product.cs",
-              "DocumentMoniker": "C:\\Users\\pranjal.misra\\Desktop\\PM\\dotNet\\Bulky\\Bulky\\Bulky.Models\\Product.cs",
-              "RelativeDocumentMoniker": "Bulky.Models\\Product.cs",
-              "ToolTip": "C:\\Users\\pranjal.misra\\Desktop\\PM\\dotNet\\Bulky\\Bulky\\Bulky.Models\\Product.cs",
-              "RelativeToolTip": "Bulky.Models\\Product.cs",
-              "ViewState": "AQIAAAsAAAAAAAAAAAAuwBcAAAASAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-08T05:42:46.389Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 28,
               "Title": "ProductVM.cs",
               "DocumentMoniker": "C:\\Users\\pranjal.misra\\Desktop\\PM\\dotNet\\Bulky\\Bulky\\Bulky.Models\\ViewModels\\ProductVM.cs",
               "RelativeDocumentMoniker": "Bulky.Models\\ViewModels\\ProductVM.cs",
@@ -588,19 +686,497 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 51,
-              "Title": "20240414134248_addImageUrlToProduct.cs",
-              "DocumentMoniker": "C:\\Users\\pranjal.misra\\Desktop\\PM\\dotNet\\Bulky\\Bulky\\Bulky.DataAccess\\Migrations\\20240414134248_addImageUrlToProduct.cs",
-              "RelativeDocumentMoniker": "Bulky.DataAccess\\Migrations\\20240414134248_addImageUrlToProduct.cs",
-              "ToolTip": "C:\\Users\\pranjal.misra\\Desktop\\PM\\dotNet\\Bulky\\Bulky\\Bulky.DataAccess\\Migrations\\20240414134248_addImageUrlToProduct.cs",
-              "RelativeToolTip": "Bulky.DataAccess\\Migrations\\20240414134248_addImageUrlToProduct.cs",
-              "ViewState": "AQIAADQAAAAAAAAAAAAgwD4AAAAaAAAA",
+              "DocumentIndex": 22,
+              "Title": "CartController.cs",
+              "DocumentMoniker": "C:\\Users\\pranjal.misra\\Desktop\\PM\\dotNet\\Bulky\\Bulky\\BulkyWeb\\Areas\\Customer\\Controllers\\CartController.cs",
+              "RelativeDocumentMoniker": "BulkyWeb\\Areas\\Customer\\Controllers\\CartController.cs",
+              "ToolTip": "C:\\Users\\pranjal.misra\\Desktop\\PM\\dotNet\\Bulky\\Bulky\\BulkyWeb\\Areas\\Customer\\Controllers\\CartController.cs",
+              "RelativeToolTip": "BulkyWeb\\Areas\\Customer\\Controllers\\CartController.cs",
+              "ViewState": "AQIAANMAAAAAAAAAAAAwwH0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-14T13:42:48.921Z"
+              "WhenOpened": "2024-05-28T16:14:56.312Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Summary.cshtml",
+              "DocumentMoniker": "C:\\Users\\pranjal.misra\\Desktop\\PM\\dotNet\\Bulky\\Bulky\\BulkyWeb\\Areas\\Customer\\Views\\Cart\\Summary.cshtml",
+              "RelativeDocumentMoniker": "BulkyWeb\\Areas\\Customer\\Views\\Cart\\Summary.cshtml",
+              "ToolTip": "C:\\Users\\pranjal.misra\\Desktop\\PM\\dotNet\\Bulky\\Bulky\\BulkyWeb\\Areas\\Customer\\Views\\Cart\\Summary.cshtml",
+              "RelativeToolTip": "BulkyWeb\\Areas\\Customer\\Views\\Cart\\Summary.cshtml",
+              "ViewState": "AQIAAEIAAAAAAAAAAAAAAE8AAABUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-30T07:38:13.18Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ShoppingCart.cs",
+              "DocumentMoniker": "C:\\Users\\pranjal.misra\\Desktop\\PM\\dotNet\\Bulky\\Bulky\\Bulky.Models\\ShoppingCart.cs",
+              "RelativeDocumentMoniker": "Bulky.Models\\ShoppingCart.cs",
+              "ToolTip": "C:\\Users\\pranjal.misra\\Desktop\\PM\\dotNet\\Bulky\\Bulky\\Bulky.Models\\ShoppingCart.cs",
+              "RelativeToolTip": "Bulky.Models\\ShoppingCart.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAA5wBcAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T06:14:57.521Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "IOrderHeaderRepository.cs",
+              "DocumentMoniker": "C:\\Users\\pranjal.misra\\Desktop\\PM\\dotNet\\Bulky\\Bulky\\Bulky.DataAccess\\Repository\\IRepository\\IOrderHeaderRepository.cs",
+              "RelativeDocumentMoniker": "Bulky.DataAccess\\Repository\\IRepository\\IOrderHeaderRepository.cs",
+              "ToolTip": "C:\\Users\\pranjal.misra\\Desktop\\PM\\dotNet\\Bulky\\Bulky\\Bulky.DataAccess\\Repository\\IRepository\\IOrderHeaderRepository.cs",
+              "RelativeToolTip": "Bulky.DataAccess\\Repository\\IRepository\\IOrderHeaderRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAsAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T09:22:20.158Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "C:\\Users\\pranjal.misra\\Desktop\\PM\\dotNet\\Bulky\\Bulky\\Bulky.Models\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "Bulky.Models\\ApplicationUser.cs",
+              "ToolTip": "C:\\Users\\pranjal.misra\\Desktop\\PM\\dotNet\\Bulky\\Bulky\\Bulky.Models\\ApplicationUser.cs",
+              "RelativeToolTip": "Bulky.Models\\ApplicationUser.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAxwAwAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T03:35:45.745Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "OrderHeaderRepository.cs",
+              "DocumentMoniker": "C:\\Users\\pranjal.misra\\Desktop\\PM\\dotNet\\Bulky\\Bulky\\Bulky.DataAccess\\Repository\\OrderHeaderRepository.cs",
+              "RelativeDocumentMoniker": "Bulky.DataAccess\\Repository\\OrderHeaderRepository.cs",
+              "ToolTip": "C:\\Users\\pranjal.misra\\Desktop\\PM\\dotNet\\Bulky\\Bulky\\Bulky.DataAccess\\Repository\\OrderHeaderRepository.cs",
+              "RelativeToolTip": "Bulky.DataAccess\\Repository\\OrderHeaderRepository.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAuwDAAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T09:19:01.164Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 29,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\pranjal.misra\\Desktop\\PM\\dotNet\\Bulky\\Bulky\\Bulky.DataAccess\\Repository\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "Bulky.DataAccess\\Repository\\ProductRepository.cs",
+              "ToolTip": "C:\\Users\\pranjal.misra\\Desktop\\PM\\dotNet\\Bulky\\Bulky\\Bulky.DataAccess\\Repository\\ProductRepository.cs",
+              "RelativeToolTip": "Bulky.DataAccess\\Repository\\ProductRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T08:38:58.45Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "BulkyWeb.csproj",
+              "DocumentMoniker": "C:\\Users\\pranjal.misra\\Desktop\\PM\\dotNet\\Bulky\\Bulky\\BulkyWeb\\BulkyWeb.csproj",
+              "RelativeDocumentMoniker": "BulkyWeb\\BulkyWeb.csproj",
+              "ToolTip": "C:\\Users\\pranjal.misra\\Desktop\\PM\\dotNet\\Bulky\\Bulky\\BulkyWeb\\BulkyWeb.csproj",
+              "RelativeToolTip": "BulkyWeb\\BulkyWeb.csproj",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABcAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-05T12:14:32.166Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 94,
+              "Title": "20240605103255_addSessionIdOrderHeader.cs",
+              "DocumentMoniker": "C:\\Users\\pranjal.misra\\Desktop\\PM\\dotNet\\Bulky\\Bulky\\Bulky.DataAccess\\Migrations\\20240605103255_addSessionIdOrderHeader.cs",
+              "RelativeDocumentMoniker": "Bulky.DataAccess\\Migrations\\20240605103255_addSessionIdOrderHeader.cs",
+              "ToolTip": "C:\\Users\\pranjal.misra\\Desktop\\PM\\dotNet\\Bulky\\Bulky\\Bulky.DataAccess\\Migrations\\20240605103255_addSessionIdOrderHeader.cs",
+              "RelativeToolTip": "Bulky.DataAccess\\Migrations\\20240605103255_addSessionIdOrderHeader.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T10:32:56.157Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\pranjal.misra\\Desktop\\PM\\dotNet\\Bulky\\Bulky\\BulkyWeb\\appsettings.json",
+              "RelativeDocumentMoniker": "BulkyWeb\\appsettings.json",
+              "ToolTip": "C:\\Users\\pranjal.misra\\Desktop\\PM\\dotNet\\Bulky\\Bulky\\BulkyWeb\\appsettings.json",
+              "RelativeToolTip": "BulkyWeb\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-12T11:25:10.512Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\pranjal.misra\\Desktop\\PM\\dotNet\\Bulky\\Bulky\\BulkyWeb\\Areas\\Customer\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "BulkyWeb\\Areas\\Customer\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\pranjal.misra\\Desktop\\PM\\dotNet\\Bulky\\Bulky\\BulkyWeb\\Areas\\Customer\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "BulkyWeb\\Areas\\Customer\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAowCoAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T10:58:10.421Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "StripeSettings.cs",
+              "DocumentMoniker": "C:\\Users\\pranjal.misra\\Desktop\\PM\\dotNet\\Bulky\\Bulky\\Bulky.Utility\\StripeSettings.cs",
+              "RelativeDocumentMoniker": "Bulky.Utility\\StripeSettings.cs",
+              "ToolTip": "C:\\Users\\pranjal.misra\\Desktop\\PM\\dotNet\\Bulky\\Bulky\\Bulky.Utility\\StripeSettings.cs",
+              "RelativeToolTip": "Bulky.Utility\\StripeSettings.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T12:11:42.316Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "OrderConfirmation.cshtml",
+              "DocumentMoniker": "C:\\Users\\pranjal.misra\\Desktop\\PM\\dotNet\\Bulky\\Bulky\\BulkyWeb\\Areas\\Customer\\Views\\Cart\\OrderConfirmation.cshtml",
+              "RelativeDocumentMoniker": "BulkyWeb\\Areas\\Customer\\Views\\Cart\\OrderConfirmation.cshtml",
+              "ToolTip": "C:\\Users\\pranjal.misra\\Desktop\\PM\\dotNet\\Bulky\\Bulky\\BulkyWeb\\Areas\\Customer\\Views\\Cart\\OrderConfirmation.cshtml",
+              "RelativeToolTip": "BulkyWeb\\Areas\\Customer\\Views\\Cart\\OrderConfirmation.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-04T05:40:17.621Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\pranjal.misra\\Desktop\\PM\\dotNet\\Bulky\\Bulky\\Bulky.DataAccess\\Repository\\IRepository\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "Bulky.DataAccess\\Repository\\IRepository\\IProductRepository.cs",
+              "ToolTip": "C:\\Users\\pranjal.misra\\Desktop\\PM\\dotNet\\Bulky\\Bulky\\Bulky.DataAccess\\Repository\\IRepository\\IProductRepository.cs",
+              "RelativeToolTip": "Bulky.DataAccess\\Repository\\IRepository\\IProductRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAIBMwAwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-30T06:10:48.888Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "ICompanyRepository.cs",
+              "DocumentMoniker": "C:\\Users\\pranjal.misra\\Desktop\\PM\\dotNet\\Bulky\\Bulky\\Bulky.DataAccess\\Repository\\IRepository\\ICompanyRepository.cs",
+              "RelativeDocumentMoniker": "Bulky.DataAccess\\Repository\\IRepository\\ICompanyRepository.cs",
+              "ToolTip": "C:\\Users\\pranjal.misra\\Desktop\\PM\\dotNet\\Bulky\\Bulky\\Bulky.DataAccess\\Repository\\IRepository\\ICompanyRepository.cs",
+              "RelativeToolTip": "Bulky.DataAccess\\Repository\\IRepository\\ICompanyRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T08:50:44.912Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "ICategoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\pranjal.misra\\Desktop\\PM\\dotNet\\Bulky\\Bulky\\Bulky.DataAccess\\Repository\\IRepository\\ICategoryRepository.cs",
+              "RelativeDocumentMoniker": "Bulky.DataAccess\\Repository\\IRepository\\ICategoryRepository.cs",
+              "ToolTip": "C:\\Users\\pranjal.misra\\Desktop\\PM\\dotNet\\Bulky\\Bulky\\Bulky.DataAccess\\Repository\\IRepository\\ICategoryRepository.cs",
+              "RelativeToolTip": "Bulky.DataAccess\\Repository\\IRepository\\ICategoryRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T17:28:09.942Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "ApplicationUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\pranjal.misra\\Desktop\\PM\\dotNet\\Bulky\\Bulky\\Bulky.DataAccess\\Repository\\ApplicationUserRepository.cs",
+              "RelativeDocumentMoniker": "Bulky.DataAccess\\Repository\\ApplicationUserRepository.cs",
+              "ToolTip": "C:\\Users\\pranjal.misra\\Desktop\\PM\\dotNet\\Bulky\\Bulky\\Bulky.DataAccess\\Repository\\ApplicationUserRepository.cs",
+              "RelativeToolTip": "Bulky.DataAccess\\Repository\\ApplicationUserRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAIBMwAwAAABkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T10:41:35.339Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "CategoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\pranjal.misra\\Desktop\\PM\\dotNet\\Bulky\\Bulky\\Bulky.DataAccess\\Repository\\CategoryRepository.cs",
+              "RelativeDocumentMoniker": "Bulky.DataAccess\\Repository\\CategoryRepository.cs",
+              "ToolTip": "C:\\Users\\pranjal.misra\\Desktop\\PM\\dotNet\\Bulky\\Bulky\\Bulky.DataAccess\\Repository\\CategoryRepository.cs",
+              "RelativeToolTip": "Bulky.DataAccess\\Repository\\CategoryRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T08:47:15.776Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 93,
+              "Title": "IOrderDetailsRepository.cs",
+              "DocumentMoniker": "C:\\Users\\pranjal.misra\\Desktop\\PM\\dotNet\\Bulky\\Bulky\\Bulky.DataAccess\\Repository\\IRepository\\IOrderDetailsRepository.cs",
+              "RelativeDocumentMoniker": "Bulky.DataAccess\\Repository\\IRepository\\IOrderDetailsRepository.cs",
+              "ToolTip": "C:\\Users\\pranjal.misra\\Desktop\\PM\\dotNet\\Bulky\\Bulky\\Bulky.DataAccess\\Repository\\IRepository\\IOrderDetailsRepository.cs",
+              "RelativeToolTip": "Bulky.DataAccess\\Repository\\IRepository\\IOrderDetailsRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T09:21:10.866Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "CompanyRepository.cs",
+              "DocumentMoniker": "C:\\Users\\pranjal.misra\\Desktop\\PM\\dotNet\\Bulky\\Bulky\\Bulky.DataAccess\\Repository\\CompanyRepository.cs",
+              "RelativeDocumentMoniker": "Bulky.DataAccess\\Repository\\CompanyRepository.cs",
+              "ToolTip": "C:\\Users\\pranjal.misra\\Desktop\\PM\\dotNet\\Bulky\\Bulky\\Bulky.DataAccess\\Repository\\CompanyRepository.cs",
+              "RelativeToolTip": "Bulky.DataAccess\\Repository\\CompanyRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T08:52:36.712Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "ShoppingCartRepository.cs",
+              "DocumentMoniker": "C:\\Users\\pranjal.misra\\Desktop\\PM\\dotNet\\Bulky\\Bulky\\Bulky.DataAccess\\Repository\\ShoppingCartRepository.cs",
+              "RelativeDocumentMoniker": "Bulky.DataAccess\\Repository\\ShoppingCartRepository.cs",
+              "ToolTip": "C:\\Users\\pranjal.misra\\Desktop\\PM\\dotNet\\Bulky\\Bulky\\Bulky.DataAccess\\Repository\\ShoppingCartRepository.cs",
+              "RelativeToolTip": "Bulky.DataAccess\\Repository\\ShoppingCartRepository.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAQwBQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T06:33:27.277Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "20240530081747_addOrderHeaderAndDetailsToDb.cs",
+              "DocumentMoniker": "C:\\Users\\pranjal.misra\\Desktop\\PM\\dotNet\\Bulky\\Bulky\\Bulky.DataAccess\\Migrations\\20240530081747_addOrderHeaderAndDetailsToDb.cs",
+              "RelativeDocumentMoniker": "Bulky.DataAccess\\Migrations\\20240530081747_addOrderHeaderAndDetailsToDb.cs",
+              "ToolTip": "C:\\Users\\pranjal.misra\\Desktop\\PM\\dotNet\\Bulky\\Bulky\\Bulky.DataAccess\\Migrations\\20240530081747_addOrderHeaderAndDetailsToDb.cs",
+              "RelativeToolTip": "Bulky.DataAccess\\Migrations\\20240530081747_addOrderHeaderAndDetailsToDb.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T08:17:48.066Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "Company.cs",
+              "DocumentMoniker": "C:\\Users\\pranjal.misra\\Desktop\\PM\\dotNet\\Bulky\\Bulky\\Bulky.Models\\Company.cs",
+              "RelativeDocumentMoniker": "Bulky.Models\\Company.cs",
+              "ToolTip": "C:\\Users\\pranjal.misra\\Desktop\\PM\\dotNet\\Bulky\\Bulky\\Bulky.Models\\Company.cs",
+              "RelativeToolTip": "Bulky.Models\\Company.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAIBcwAsAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T10:46:13.703Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\pranjal.misra\\Desktop\\PM\\dotNet\\Bulky\\Bulky\\Bulky.DataAccess\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Bulky.DataAccess\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\pranjal.misra\\Desktop\\PM\\dotNet\\Bulky\\Bulky\\Bulky.DataAccess\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Bulky.DataAccess\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAzwBQAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T10:11:13.706Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "OrderDetails.cs",
+              "DocumentMoniker": "C:\\Users\\pranjal.misra\\Desktop\\PM\\dotNet\\Bulky\\Bulky\\Bulky.Models\\OrderDetails.cs",
+              "RelativeDocumentMoniker": "Bulky.Models\\OrderDetails.cs",
+              "ToolTip": "C:\\Users\\pranjal.misra\\Desktop\\PM\\dotNet\\Bulky\\Bulky\\Bulky.Models\\OrderDetails.cs",
+              "RelativeToolTip": "Bulky.Models\\OrderDetails.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAywBkAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T07:57:44.786Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\pranjal.misra\\Desktop\\PM\\dotNet\\Bulky\\Bulky\\Bulky.Models\\Product.cs",
+              "RelativeDocumentMoniker": "Bulky.Models\\Product.cs",
+              "ToolTip": "C:\\Users\\pranjal.misra\\Desktop\\PM\\dotNet\\Bulky\\Bulky\\Bulky.Models\\Product.cs",
+              "RelativeToolTip": "Bulky.Models\\Product.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAmwB8AAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T05:42:46.389Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "Register.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\pranjal.misra\\Desktop\\PM\\dotNet\\Bulky\\Bulky\\BulkyWeb\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeDocumentMoniker": "BulkyWeb\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ToolTip": "C:\\Users\\pranjal.misra\\Desktop\\PM\\dotNet\\Bulky\\Bulky\\BulkyWeb\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeToolTip": "BulkyWeb\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ViewState": "AQIAAIAAAAAAAAAAAAAtwJAAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T06:20:42.295Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\pranjal.misra\\Desktop\\PM\\dotNet\\Bulky\\Bulky\\BulkyWeb\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "BulkyWeb\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\pranjal.misra\\Desktop\\PM\\dotNet\\Bulky\\Bulky\\BulkyWeb\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeToolTip": "BulkyWeb\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAH8AAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-23T11:33:51.153Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "IShoppingCartRepository.cs",
+              "DocumentMoniker": "C:\\Users\\pranjal.misra\\Desktop\\PM\\dotNet\\Bulky\\Bulky\\Bulky.DataAccess\\Repository\\IRepository\\IShoppingCartRepository.cs",
+              "RelativeDocumentMoniker": "Bulky.DataAccess\\Repository\\IRepository\\IShoppingCartRepository.cs",
+              "ToolTip": "C:\\Users\\pranjal.misra\\Desktop\\PM\\dotNet\\Bulky\\Bulky\\Bulky.DataAccess\\Repository\\IRepository\\IShoppingCartRepository.cs",
+              "RelativeToolTip": "Bulky.DataAccess\\Repository\\IRepository\\IShoppingCartRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T06:29:48.598Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\pranjal.misra\\Desktop\\PM\\dotNet\\Bulky\\Bulky\\BulkyWeb\\Areas\\Customer\\Views\\Home\\Details.cshtml",
+              "RelativeDocumentMoniker": "BulkyWeb\\Areas\\Customer\\Views\\Home\\Details.cshtml",
+              "ToolTip": "C:\\Users\\pranjal.misra\\Desktop\\PM\\dotNet\\Bulky\\Bulky\\BulkyWeb\\Areas\\Customer\\Views\\Home\\Details.cshtml",
+              "RelativeToolTip": "BulkyWeb\\Areas\\Customer\\Views\\Home\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-05T15:30:11.686Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 91,
+              "Title": "IApplicationUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\pranjal.misra\\Desktop\\PM\\dotNet\\Bulky\\Bulky\\Bulky.DataAccess\\Repository\\IRepository\\IApplicationUserRepository.cs",
+              "RelativeDocumentMoniker": "Bulky.DataAccess\\Repository\\IRepository\\IApplicationUserRepository.cs",
+              "ToolTip": "C:\\Users\\pranjal.misra\\Desktop\\PM\\dotNet\\Bulky\\Bulky\\Bulky.DataAccess\\Repository\\IRepository\\IApplicationUserRepository.cs",
+              "RelativeToolTip": "Bulky.DataAccess\\Repository\\IRepository\\IApplicationUserRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T10:40:44.383Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 92,
+              "Title": "20240524062722_AddShoppingCartToDb.cs",
+              "DocumentMoniker": "C:\\Users\\pranjal.misra\\Desktop\\PM\\dotNet\\Bulky\\Bulky\\Bulky.DataAccess\\Migrations\\20240524062722_AddShoppingCartToDb.cs",
+              "RelativeDocumentMoniker": "Bulky.DataAccess\\Migrations\\20240524062722_AddShoppingCartToDb.cs",
+              "ToolTip": "C:\\Users\\pranjal.misra\\Desktop\\PM\\dotNet\\Bulky\\Bulky\\Bulky.DataAccess\\Migrations\\20240524062722_AddShoppingCartToDb.cs",
+              "RelativeToolTip": "Bulky.DataAccess\\Migrations\\20240524062722_AddShoppingCartToDb.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T06:27:22.78Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\pranjal.misra\\Desktop\\PM\\dotNet\\Bulky\\Bulky\\BulkyWeb\\Areas\\Identity\\Pages\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "BulkyWeb\\Areas\\Identity\\Pages\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\pranjal.misra\\Desktop\\PM\\dotNet\\Bulky\\Bulky\\BulkyWeb\\Areas\\Identity\\Pages\\_ViewImports.cshtml",
+              "RelativeToolTip": "BulkyWeb\\Areas\\Identity\\Pages\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-21T10:51:45.17Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "site.js",
+              "DocumentMoniker": "C:\\Users\\pranjal.misra\\Desktop\\PM\\dotNet\\Bulky\\Bulky\\BulkyWeb\\wwwroot\\js\\site.js",
+              "RelativeDocumentMoniker": "BulkyWeb\\wwwroot\\js\\site.js",
+              "ToolTip": "C:\\Users\\pranjal.misra\\Desktop\\PM\\dotNet\\Bulky\\Bulky\\BulkyWeb\\wwwroot\\js\\site.js",
+              "RelativeToolTip": "BulkyWeb\\wwwroot\\js\\site.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-03-26T06:20:09.724Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "Upsert.cshtml",
+              "DocumentMoniker": "C:\\Users\\pranjal.misra\\Desktop\\PM\\dotNet\\Bulky\\Bulky\\BulkyWeb\\Areas\\Admin\\Views\\Company\\Upsert.cshtml",
+              "RelativeDocumentMoniker": "BulkyWeb\\Areas\\Admin\\Views\\Company\\Upsert.cshtml",
+              "ToolTip": "C:\\Users\\pranjal.misra\\Desktop\\PM\\dotNet\\Bulky\\Bulky\\BulkyWeb\\Areas\\Admin\\Views\\Company\\Upsert.cshtml",
+              "RelativeToolTip": "BulkyWeb\\Areas\\Admin\\Views\\Company\\Upsert.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-23T12:24:30.079Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "Company.js",
+              "DocumentMoniker": "C:\\Users\\pranjal.misra\\Desktop\\PM\\dotNet\\Bulky\\Bulky\\BulkyWeb\\wwwroot\\js\\Company.js",
+              "RelativeDocumentMoniker": "BulkyWeb\\wwwroot\\js\\Company.js",
+              "ToolTip": "C:\\Users\\pranjal.misra\\Desktop\\PM\\dotNet\\Bulky\\Bulky\\BulkyWeb\\wwwroot\\js\\Company.js",
+              "RelativeToolTip": "BulkyWeb\\wwwroot\\js\\Company.js",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAQwAkAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-05-22T10:33:00.287Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "Upsert.cshtml",
+              "DocumentMoniker": "C:\\Users\\pranjal.misra\\Desktop\\PM\\dotNet\\Bulky\\Bulky\\BulkyWeb\\Areas\\Admin\\Views\\Product\\Upsert.cshtml",
+              "RelativeDocumentMoniker": "BulkyWeb\\Areas\\Admin\\Views\\Product\\Upsert.cshtml",
+              "ToolTip": "C:\\Users\\pranjal.misra\\Desktop\\PM\\dotNet\\Bulky\\Bulky\\BulkyWeb\\Areas\\Admin\\Views\\Product\\Upsert.cshtml",
+              "RelativeToolTip": "BulkyWeb\\Areas\\Admin\\Views\\Product\\Upsert.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-04T10:40:07.795Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 89,
+              "Title": "20240523121034_AddedCompanyToApp1.cs",
+              "DocumentMoniker": "C:\\Users\\pranjal.misra\\Desktop\\PM\\dotNet\\Bulky\\Bulky\\Bulky.DataAccess\\Migrations\\20240523121034_AddedCompanyToApp1.cs",
+              "RelativeDocumentMoniker": "Bulky.DataAccess\\Migrations\\20240523121034_AddedCompanyToApp1.cs",
+              "ToolTip": "C:\\Users\\pranjal.misra\\Desktop\\PM\\dotNet\\Bulky\\Bulky\\Bulky.DataAccess\\Migrations\\20240523121034_AddedCompanyToApp1.cs",
+              "RelativeToolTip": "Bulky.DataAccess\\Migrations\\20240523121034_AddedCompanyToApp1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T12:10:34.151Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 90,
+              "Title": "20240523115704_AddedCompanyToApp.cs",
+              "DocumentMoniker": "C:\\Users\\pranjal.misra\\Desktop\\PM\\dotNet\\Bulky\\Bulky\\Bulky.DataAccess\\Migrations\\20240523115704_AddedCompanyToApp.cs",
+              "RelativeDocumentMoniker": "Bulky.DataAccess\\Migrations\\20240523115704_AddedCompanyToApp.cs",
+              "ToolTip": "C:\\Users\\pranjal.misra\\Desktop\\PM\\dotNet\\Bulky\\Bulky\\Bulky.DataAccess\\Migrations\\20240523115704_AddedCompanyToApp.cs",
+              "RelativeToolTip": "Bulky.DataAccess\\Migrations\\20240523115704_AddedCompanyToApp.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T11:57:04.517Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "20240523112903_AddedCompanyToApp.cs",
+              "DocumentMoniker": "C:\\Users\\pranjal.misra\\Desktop\\PM\\dotNet\\Bulky\\Bulky\\Bulky.DataAccess\\Migrations\\20240523112903_AddedCompanyToApp.cs",
+              "RelativeDocumentMoniker": "Bulky.DataAccess\\Migrations\\20240523112903_AddedCompanyToApp.cs",
+              "ToolTip": "C:\\Users\\pranjal.misra\\Desktop\\PM\\dotNet\\Bulky\\Bulky\\Bulky.DataAccess\\Migrations\\20240523112903_AddedCompanyToApp.cs",
+              "RelativeToolTip": "Bulky.DataAccess\\Migrations\\20240523112903_AddedCompanyToApp.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T11:29:03.413Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "20240523105302_ChangedPhoneNumberDatatypeToInt.cs",
+              "DocumentMoniker": "C:\\Users\\pranjal.misra\\Desktop\\PM\\dotNet\\Bulky\\Bulky\\Bulky.DataAccess\\Migrations\\20240523105302_ChangedPhoneNumberDatatypeToInt.cs",
+              "RelativeDocumentMoniker": "Bulky.DataAccess\\Migrations\\20240523105302_ChangedPhoneNumberDatatypeToInt.cs",
+              "ToolTip": "C:\\Users\\pranjal.misra\\Desktop\\PM\\dotNet\\Bulky\\Bulky\\Bulky.DataAccess\\Migrations\\20240523105302_ChangedPhoneNumberDatatypeToInt.cs",
+              "RelativeToolTip": "Bulky.DataAccess\\Migrations\\20240523105302_ChangedPhoneNumberDatatypeToInt.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T10:53:03.047Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
               "Title": "Category.cs",
               "DocumentMoniker": "C:\\Users\\pranjal.misra\\Desktop\\PM\\dotNet\\Bulky\\Bulky\\Bulky.Models\\Category.cs",
               "RelativeDocumentMoniker": "Bulky.Models\\Category.cs",
@@ -612,19 +1188,223 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 62,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\pranjal.misra\\Desktop\\PM\\dotNet\\Bulky\\Bulky\\BulkyWeb\\Areas\\Identity\\Pages\\Account\\Manage\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "BulkyWeb\\Areas\\Identity\\Pages\\Account\\Manage\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\pranjal.misra\\Desktop\\PM\\dotNet\\Bulky\\Bulky\\BulkyWeb\\Areas\\Identity\\Pages\\Account\\Manage\\_Layout.cshtml",
+              "RelativeToolTip": "BulkyWeb\\Areas\\Identity\\Pages\\Account\\Manage\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-21T12:53:37.183Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\pranjal.misra\\Desktop\\PM\\dotNet\\Bulky\\Bulky\\BulkyWeb\\Areas\\Identity\\Pages\\Account\\Manage\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "BulkyWeb\\Areas\\Identity\\Pages\\Account\\Manage\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\pranjal.misra\\Desktop\\PM\\dotNet\\Bulky\\Bulky\\BulkyWeb\\Areas\\Identity\\Pages\\Account\\Manage\\_ViewImports.cshtml",
+              "RelativeToolTip": "BulkyWeb\\Areas\\Identity\\Pages\\Account\\Manage\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-21T12:57:00.661Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\pranjal.misra\\Desktop\\PM\\dotNet\\Bulky\\Bulky\\BulkyWeb\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "BulkyWeb\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\pranjal.misra\\Desktop\\PM\\dotNet\\Bulky\\Bulky\\BulkyWeb\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeToolTip": "BulkyWeb\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAIBcwCMAAABdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-21T11:26:18.705Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "_ManageNav.cshtml",
+              "DocumentMoniker": "C:\\Users\\pranjal.misra\\Desktop\\PM\\dotNet\\Bulky\\Bulky\\BulkyWeb\\Areas\\Identity\\Pages\\Account\\Manage\\_ManageNav.cshtml",
+              "RelativeDocumentMoniker": "BulkyWeb\\Areas\\Identity\\Pages\\Account\\Manage\\_ManageNav.cshtml",
+              "ToolTip": "C:\\Users\\pranjal.misra\\Desktop\\PM\\dotNet\\Bulky\\Bulky\\BulkyWeb\\Areas\\Identity\\Pages\\Account\\Manage\\_ManageNav.cshtml",
+              "RelativeToolTip": "BulkyWeb\\Areas\\Identity\\Pages\\Account\\Manage\\_ManageNav.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-21T12:57:05.424Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\pranjal.misra\\Desktop\\PM\\dotNet\\Bulky\\Bulky\\BulkyWeb\\Areas\\Identity\\Pages\\Account\\Manage\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "BulkyWeb\\Areas\\Identity\\Pages\\Account\\Manage\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\pranjal.misra\\Desktop\\PM\\dotNet\\Bulky\\Bulky\\BulkyWeb\\Areas\\Identity\\Pages\\Account\\Manage\\_ViewStart.cshtml",
+              "RelativeToolTip": "BulkyWeb\\Areas\\Identity\\Pages\\Account\\Manage\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-21T12:59:58.719Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\pranjal.misra\\Desktop\\PM\\dotNet\\Bulky\\Bulky\\BulkyWeb\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "BulkyWeb\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\pranjal.misra\\Desktop\\PM\\dotNet\\Bulky\\Bulky\\BulkyWeb\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "BulkyWeb\\wwwroot\\css\\site.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-03-26T06:16:15.053Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "Logout.cshtml",
+              "DocumentMoniker": "C:\\Users\\pranjal.misra\\Desktop\\PM\\dotNet\\Bulky\\Bulky\\BulkyWeb\\Areas\\Identity\\Pages\\Account\\Logout.cshtml",
+              "RelativeDocumentMoniker": "BulkyWeb\\Areas\\Identity\\Pages\\Account\\Logout.cshtml",
+              "ToolTip": "C:\\Users\\pranjal.misra\\Desktop\\PM\\dotNet\\Bulky\\Bulky\\BulkyWeb\\Areas\\Identity\\Pages\\Account\\Logout.cshtml",
+              "RelativeToolTip": "BulkyWeb\\Areas\\Identity\\Pages\\Account\\Logout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-21T12:20:33.036Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\pranjal.misra\\Desktop\\PM\\dotNet\\Bulky\\Bulky\\BulkyWeb\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "BulkyWeb\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\pranjal.misra\\Desktop\\PM\\dotNet\\Bulky\\Bulky\\BulkyWeb\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "BulkyWeb\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-26T10:59:18.14Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\pranjal.misra\\Desktop\\PM\\dotNet\\Bulky\\Bulky\\BulkyWeb\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "BulkyWeb\\Views\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "C:\\Users\\pranjal.misra\\Desktop\\PM\\dotNet\\Bulky\\Bulky\\BulkyWeb\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "BulkyWeb\\Views\\Shared\\_LoginPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-06T05:41:50.57Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\pranjal.misra\\Desktop\\PM\\dotNet\\Bulky\\Bulky\\BulkyWeb\\Areas\\Customer\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "BulkyWeb\\Areas\\Customer\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\pranjal.misra\\Desktop\\PM\\dotNet\\Bulky\\Bulky\\BulkyWeb\\Areas\\Customer\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "BulkyWeb\\Areas\\Customer\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-12T14:19:50.061Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
               "Title": "_ViewImports.cshtml",
               "DocumentMoniker": "C:\\Users\\pranjal.misra\\Desktop\\PM\\dotNet\\Bulky\\Bulky\\BulkyWeb\\Views\\Shared\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "BulkyWeb\\Views\\Shared\\_ViewImports.cshtml",
               "ToolTip": "C:\\Users\\pranjal.misra\\Desktop\\PM\\dotNet\\Bulky\\Bulky\\BulkyWeb\\Views\\Shared\\_ViewImports.cshtml",
               "RelativeToolTip": "BulkyWeb\\Views\\Shared\\_ViewImports.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAeAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAeAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-04-04T10:58:56.241Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 69,
+              "Title": "EmailSender.cs",
+              "DocumentMoniker": "C:\\Users\\pranjal.misra\\Desktop\\PM\\dotNet\\Bulky\\Bulky\\Bulky.Utility\\EmailSender.cs",
+              "RelativeDocumentMoniker": "Bulky.Utility\\EmailSender.cs",
+              "ToolTip": "C:\\Users\\pranjal.misra\\Desktop\\PM\\dotNet\\Bulky\\Bulky\\Bulky.Utility\\EmailSender.cs",
+              "RelativeToolTip": "Bulky.Utility\\EmailSender.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T10:52:24.976Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "SD.cs",
+              "DocumentMoniker": "C:\\Users\\pranjal.misra\\Desktop\\PM\\dotNet\\Bulky\\Bulky\\Bulky.Utility\\SD.cs",
+              "RelativeDocumentMoniker": "Bulky.Utility\\SD.cs",
+              "ToolTip": "C:\\Users\\pranjal.misra\\Desktop\\PM\\dotNet\\Bulky\\Bulky\\Bulky.Utility\\SD.cs",
+              "RelativeToolTip": "Bulky.Utility\\SD.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T10:09:58.797Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\pranjal.misra\\Desktop\\PM\\dotNet\\Bulky\\Bulky\\BulkyWeb\\Areas\\Admin\\Views\\Category\\Edit.cshtml",
+              "RelativeDocumentMoniker": "BulkyWeb\\Areas\\Admin\\Views\\Category\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\pranjal.misra\\Desktop\\PM\\dotNet\\Bulky\\Bulky\\BulkyWeb\\Areas\\Admin\\Views\\Category\\Edit.cshtml",
+              "RelativeToolTip": "BulkyWeb\\Areas\\Admin\\Views\\Category\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACkAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-20T05:32:32.883Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "C:\\Users\\pranjal.misra\\Desktop\\PM\\dotNet\\Bulky\\Bulky\\BulkyWeb\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "BulkyWeb\\ScaffoldingReadMe.txt",
+              "ToolTip": "C:\\Users\\pranjal.misra\\Desktop\\PM\\dotNet\\Bulky\\Bulky\\BulkyWeb\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "BulkyWeb\\ScaffoldingReadMe.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAABdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-03-29T07:27:26.111Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\pranjal.misra\\Desktop\\PM\\dotNet\\Bulky\\Bulky\\BulkyWeb\\Areas\\Admin\\Views\\Category\\Delete.cshtml",
+              "RelativeDocumentMoniker": "BulkyWeb\\Areas\\Admin\\Views\\Category\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\pranjal.misra\\Desktop\\PM\\dotNet\\Bulky\\Bulky\\BulkyWeb\\Areas\\Admin\\Views\\Category\\Delete.cshtml",
+              "RelativeToolTip": "BulkyWeb\\Areas\\Admin\\Views\\Category\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-20T06:15:55.639Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\pranjal.misra\\Desktop\\PM\\dotNet\\Bulky\\Bulky\\BulkyWeb\\Areas\\Customer\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "BulkyWeb\\Areas\\Customer\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\pranjal.misra\\Desktop\\PM\\dotNet\\Bulky\\Bulky\\BulkyWeb\\Areas\\Customer\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "BulkyWeb\\Areas\\Customer\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-13T09:15:55.245Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 76,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\pranjal.misra\\Desktop\\PM\\dotNet\\Bulky\\Bulky\\BulkyWeb\\Areas\\Customer\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "BulkyWeb\\Areas\\Customer\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\pranjal.misra\\Desktop\\PM\\dotNet\\Bulky\\Bulky\\BulkyWeb\\Areas\\Customer\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "BulkyWeb\\Areas\\Customer\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-26T11:16:07.967Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 77,
               "Title": "Bulky.Models.csproj",
               "DocumentMoniker": "C:\\Users\\pranjal.misra\\Desktop\\PM\\dotNet\\Bulky\\Bulky\\Bulky.Models\\Bulky.Models.csproj",
               "RelativeDocumentMoniker": "Bulky.Models\\Bulky.Models.csproj",
@@ -636,31 +1416,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
-              "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "C:\\Users\\pranjal.misra\\Desktop\\PM\\dotNet\\Bulky\\Bulky\\BulkyWeb\\Areas\\Customer\\Views\\_ViewImports.cshtml",
-              "RelativeDocumentMoniker": "BulkyWeb\\Areas\\Customer\\Views\\_ViewImports.cshtml",
-              "ToolTip": "C:\\Users\\pranjal.misra\\Desktop\\PM\\dotNet\\Bulky\\Bulky\\BulkyWeb\\Areas\\Customer\\Views\\_ViewImports.cshtml",
-              "RelativeToolTip": "BulkyWeb\\Areas\\Customer\\Views\\_ViewImports.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAeAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-12T14:19:50.061Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 33,
-              "Title": "CategoryRepository.cs",
-              "DocumentMoniker": "C:\\Users\\pranjal.misra\\Desktop\\PM\\dotNet\\Bulky\\Bulky\\Bulky.DataAccess\\Repository\\CategoryRepository.cs",
-              "RelativeDocumentMoniker": "Bulky.DataAccess\\Repository\\CategoryRepository.cs",
-              "ToolTip": "C:\\Users\\pranjal.misra\\Desktop\\PM\\dotNet\\Bulky\\Bulky\\Bulky.DataAccess\\Repository\\CategoryRepository.cs",
-              "RelativeToolTip": "Bulky.DataAccess\\Repository\\CategoryRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAGBlwBUAAAA6AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-27T07:14:51.011Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 78,
               "Title": "20240408054827_addForeignKeyForCategoryProductRelation.cs",
               "DocumentMoniker": "C:\\Users\\pranjal.misra\\Desktop\\PM\\dotNet\\Bulky\\Bulky\\Bulky.DataAccess\\Migrations\\20240408054827_addForeignKeyForCategoryProductRelation.cs",
               "RelativeDocumentMoniker": "Bulky.DataAccess\\Migrations\\20240408054827_addForeignKeyForCategoryProductRelation.cs",
@@ -671,7 +1427,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 79,
               "Title": "_Notification.cshtml",
               "DocumentMoniker": "C:\\Users\\pranjal.misra\\Desktop\\PM\\dotNet\\Bulky\\Bulky\\BulkyWeb\\Views\\Shared\\_Notification.cshtml",
               "RelativeDocumentMoniker": "BulkyWeb\\Views\\Shared\\_Notification.cshtml",
@@ -683,7 +1439,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 80,
               "Title": "_ValidationScriptsPartial.cshtml",
               "DocumentMoniker": "C:\\Users\\pranjal.misra\\Desktop\\PM\\dotNet\\Bulky\\Bulky\\BulkyWeb\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
               "RelativeDocumentMoniker": "BulkyWeb\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
@@ -695,7 +1451,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 81,
               "Title": "_ViewStart.cshtml",
               "DocumentMoniker": "C:\\Users\\pranjal.misra\\Desktop\\PM\\dotNet\\Bulky\\Bulky\\BulkyWeb\\Views\\Shared\\_ViewStart.cshtml",
               "RelativeDocumentMoniker": "BulkyWeb\\Views\\Shared\\_ViewStart.cshtml",
@@ -707,43 +1463,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 38,
-              "Title": "UnitOfWork.cs",
-              "DocumentMoniker": "C:\\Users\\pranjal.misra\\Desktop\\PM\\dotNet\\Bulky\\Bulky\\Bulky.DataAccess\\Repository\\UnitOfWork.cs",
-              "RelativeDocumentMoniker": "Bulky.DataAccess\\Repository\\UnitOfWork.cs",
-              "ToolTip": "C:\\Users\\pranjal.misra\\Desktop\\PM\\dotNet\\Bulky\\Bulky\\Bulky.DataAccess\\Repository\\UnitOfWork.cs",
-              "RelativeToolTip": "Bulky.DataAccess\\Repository\\UnitOfWork.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAApAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-27T10:30:33.024Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 39,
-              "Title": "IUnitOfWork.cs",
-              "DocumentMoniker": "C:\\Users\\pranjal.misra\\Desktop\\PM\\dotNet\\Bulky\\Bulky\\Bulky.DataAccess\\Repository\\IRepository\\IUnitOfWork.cs",
-              "RelativeDocumentMoniker": "Bulky.DataAccess\\Repository\\IRepository\\IUnitOfWork.cs",
-              "ToolTip": "C:\\Users\\pranjal.misra\\Desktop\\PM\\dotNet\\Bulky\\Bulky\\Bulky.DataAccess\\Repository\\IRepository\\IUnitOfWork.cs",
-              "RelativeToolTip": "Bulky.DataAccess\\Repository\\IRepository\\IUnitOfWork.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAjAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-27T10:26:48.189Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 40,
-              "Title": "ICategoryRepository.cs",
-              "DocumentMoniker": "C:\\Users\\pranjal.misra\\Desktop\\PM\\dotNet\\Bulky\\Bulky\\Bulky.DataAccess\\Repository\\IRepository\\ICategoryRepository.cs",
-              "RelativeDocumentMoniker": "Bulky.DataAccess\\Repository\\IRepository\\ICategoryRepository.cs",
-              "ToolTip": "C:\\Users\\pranjal.misra\\Desktop\\PM\\dotNet\\Bulky\\Bulky\\Bulky.DataAccess\\Repository\\IRepository\\ICategoryRepository.cs",
-              "RelativeToolTip": "Bulky.DataAccess\\Repository\\IRepository\\ICategoryRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-27T07:09:18.707Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 41,
+              "DocumentIndex": 82,
               "Title": "_ViewStart.cshtml",
               "DocumentMoniker": "C:\\Users\\pranjal.misra\\Desktop\\PM\\dotNet\\Bulky\\Bulky\\BulkyWeb\\Areas\\Customer\\Views\\_ViewStart.cshtml",
               "RelativeDocumentMoniker": "BulkyWeb\\Areas\\Customer\\Views\\_ViewStart.cshtml",
@@ -755,7 +1475,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 42,
+              "DocumentIndex": 83,
               "Title": "_ViewStart.cshtml",
               "DocumentMoniker": "C:\\Users\\pranjal.misra\\Desktop\\PM\\dotNet\\Bulky\\Bulky\\BulkyWeb\\Areas\\Admin\\Views\\_ViewStart.cshtml",
               "RelativeDocumentMoniker": "BulkyWeb\\Areas\\Admin\\Views\\_ViewStart.cshtml",
@@ -767,7 +1487,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 43,
+              "DocumentIndex": 84,
               "Title": "Error.cshtml",
               "DocumentMoniker": "C:\\Users\\pranjal.misra\\Desktop\\PM\\dotNet\\Bulky\\Bulky\\BulkyWeb\\Views\\Shared\\Error.cshtml",
               "RelativeDocumentMoniker": "BulkyWeb\\Views\\Shared\\Error.cshtml",
@@ -779,7 +1499,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 44,
+              "DocumentIndex": 85,
               "Title": "_Layout.cshtml.css",
               "DocumentMoniker": "C:\\Users\\pranjal.misra\\Desktop\\PM\\dotNet\\Bulky\\Bulky\\BulkyWeb\\Views\\Shared\\_Layout.cshtml.css",
               "RelativeDocumentMoniker": "BulkyWeb\\Views\\Shared\\_Layout.cshtml.css",
@@ -791,7 +1511,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 45,
+              "DocumentIndex": 86,
               "Title": "ErrorViewModel.cs",
               "DocumentMoniker": "C:\\Users\\pranjal.misra\\Desktop\\PM\\dotNet\\Bulky\\Bulky\\Bulky.Models\\ErrorViewModel.cs",
               "RelativeDocumentMoniker": "Bulky.Models\\ErrorViewModel.cs",
@@ -803,19 +1523,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 46,
-              "Title": "SD.cs",
-              "DocumentMoniker": "C:\\Users\\pranjal.misra\\Desktop\\PM\\dotNet\\Bulky\\Bulky\\Bulky.Utility\\SD.cs",
-              "RelativeDocumentMoniker": "Bulky.Utility\\SD.cs",
-              "ToolTip": "C:\\Users\\pranjal.misra\\Desktop\\PM\\dotNet\\Bulky\\Bulky\\Bulky.Utility\\SD.cs",
-              "RelativeToolTip": "Bulky.Utility\\SD.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAaAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-26T10:09:58.797Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 48,
+              "DocumentIndex": 87,
               "Title": "bootstrap.css",
               "DocumentMoniker": "C:\\Users\\pranjal.misra\\Desktop\\PM\\dotNet\\Bulky\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
               "RelativeDocumentMoniker": "BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
@@ -827,19 +1535,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 47,
-              "Title": "site.css",
-              "DocumentMoniker": "C:\\Users\\pranjal.misra\\Desktop\\PM\\dotNet\\Bulky\\Bulky\\BulkyWeb\\wwwroot\\css\\site.css",
-              "RelativeDocumentMoniker": "BulkyWeb\\wwwroot\\css\\site.css",
-              "ToolTip": "C:\\Users\\pranjal.misra\\Desktop\\PM\\dotNet\\Bulky\\Bulky\\BulkyWeb\\wwwroot\\css\\site.css",
-              "RelativeToolTip": "BulkyWeb\\wwwroot\\css\\site.css",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsCAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-03-26T06:16:15.053Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 49,
+              "DocumentIndex": 88,
               "Title": "bootstrap-grid.css",
               "DocumentMoniker": "C:\\Users\\pranjal.misra\\Desktop\\PM\\dotNet\\Bulky\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
               "RelativeDocumentMoniker": "BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
@@ -848,18 +1544,6 @@
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
               "WhenOpened": "2024-03-26T06:16:18.395Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 50,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\pranjal.misra\\Desktop\\PM\\dotNet\\Bulky\\Bulky\\BulkyWeb\\appsettings.json",
-              "RelativeDocumentMoniker": "BulkyWeb\\appsettings.json",
-              "ToolTip": "C:\\Users\\pranjal.misra\\Desktop\\PM\\dotNet\\Bulky\\Bulky\\BulkyWeb\\appsettings.json",
-              "RelativeToolTip": "BulkyWeb\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-03-12T11:25:10.512Z"
             }
           ]
         }

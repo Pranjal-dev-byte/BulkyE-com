@@ -13,6 +13,10 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "C:\\Users\\pranjal.misra\\Desktop\\PM\\dotNet\\Bulky\\Bulky\\BulkyWeb\\wwwroot\\images\\lawn_leaf.jpg",
+      "PackagePath": "staticwebassets\\images\\lawn_leaf.jpg"
+    },
+    {
       "Id": "C:\\Users\\pranjal.misra\\Desktop\\PM\\dotNet\\Bulky\\Bulky\\BulkyWeb\\wwwroot\\images\\products\\82b13760-992c-4abe-834a-85a3d7bfa958.jpg",
       "PackagePath": "staticwebassets\\images\\products\\82b13760-992c-4abe-834a-85a3d7bfa958.jpg"
     },
@@ -35,6 +39,14 @@
     {
       "Id": "C:\\Users\\pranjal.misra\\Desktop\\PM\\dotNet\\Bulky\\Bulky\\BulkyWeb\\wwwroot\\images\\products\\ee960ae3-2a9d-4103-9030-8d5d5b273442.jpg",
       "PackagePath": "staticwebassets\\images\\products\\ee960ae3-2a9d-4103-9030-8d5d5b273442.jpg"
+    },
+    {
+      "Id": "C:\\Users\\pranjal.misra\\Desktop\\PM\\dotNet\\Bulky\\Bulky\\BulkyWeb\\wwwroot\\js\\Company.js",
+      "PackagePath": "staticwebassets\\js\\Company.js"
+    },
+    {
+      "Id": "C:\\Users\\pranjal.misra\\Desktop\\PM\\dotNet\\Bulky\\Bulky\\BulkyWeb\\wwwroot\\js\\Order.js",
+      "PackagePath": "staticwebassets\\js\\Order.js"
     },
     {
       "Id": "C:\\Users\\pranjal.misra\\Desktop\\PM\\dotNet\\Bulky\\Bulky\\BulkyWeb\\wwwroot\\js\\Product.js",

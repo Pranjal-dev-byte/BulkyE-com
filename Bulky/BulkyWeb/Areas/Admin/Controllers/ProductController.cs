@@ -1,12 +1,15 @@
 ﻿using Bulky.DataAccess.Repository.IRepository;
 using Bulky.Models;
 using Bulky.Models.ViewModels;
+using Bulky.Utility;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
 
 namespace BulkyWeb.Areas.Admin.Controllers
 {
     [Area("Admin")]
+    //[Authorize(Roles = SD.Role_Admin)]
     public class ProductController : Controller
     {
         private readonly IUnitOfWork _unitOfWork;
@@ -36,7 +39,7 @@ namespace BulkyWeb.Areas.Admin.Controllers
         public IActionResult Upsert(int? id)
         {
             //Projections -:
-            //IEnumerable<SelectListItem> categoryList = _unitOfWork.Category.GetAll().Select(u => new SelectListItem
+            //IEnumerable<SelectListItem> CategoryList = _unitOfWork.Category.GetAll().Select(u => new SelectListItem
             //{
             //    Text = u.Name,
             //    Value = u.Id.ToString(),
@@ -64,8 +67,8 @@ namespace BulkyWeb.Areas.Admin.Controllers
                 return View(productVM);
             }
             //Viewbag -- Used to transfer dynamic data from controller to view
-            //ViewBag.CategoryList = categoryList;
-            //ViewData["CategoryList"] = categoryList;
+            //ViewBag.CategoryList = CategoryList;
+            //ViewData["CategoryList"] = CategoryList;
         }
 
         // POST: CategoryController/Create

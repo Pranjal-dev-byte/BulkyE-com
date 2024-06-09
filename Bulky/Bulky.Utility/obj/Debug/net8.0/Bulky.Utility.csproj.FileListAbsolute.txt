@@ -9,3 +9,5 @@ C:\Users\pranjal.misra\Desktop\PM\dotNet\Bulky\Bulky\Bulky.Utility\obj\Debug\net
 C:\Users\pranjal.misra\Desktop\PM\dotNet\Bulky\Bulky\Bulky.Utility\obj\Debug\net8.0\refint\Bulky.Utility.dll
 C:\Users\pranjal.misra\Desktop\PM\dotNet\Bulky\Bulky\Bulky.Utility\obj\Debug\net8.0\Bulky.Utility.pdb
 C:\Users\pranjal.misra\Desktop\PM\dotNet\Bulky\Bulky\Bulky.Utility\obj\Debug\net8.0\ref\Bulky.Utility.dll
+C:\Users\pranjal.misra\Desktop\PM\dotNet\Bulky\Bulky\Bulky.Utility\obj\Debug\net8.0\Bulky.Utility.sourcelink.json
+C:\Users\pranjal.misra\Desktop\PM\dotNet\Bulky\Bulky\Bulky.Utility\obj\Debug\net8.0\Bulky.Utility.csproj.AssemblyReference.cache

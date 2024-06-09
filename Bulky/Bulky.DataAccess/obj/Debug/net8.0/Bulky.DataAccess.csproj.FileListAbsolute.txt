@@ -17,3 +17,4 @@ C:\Users\pranjal.misra\Desktop\PM\dotNet\Bulky\Bulky\Bulky.DataAccess\obj\Debug\
 C:\Users\pranjal.misra\Desktop\PM\dotNet\Bulky\Bulky\Bulky.DataAccess\bin\Debug\net8.0\Bulky.Utility.dll
 C:\Users\pranjal.misra\Desktop\PM\dotNet\Bulky\Bulky\Bulky.DataAccess\bin\Debug\net8.0\Bulky.Utility.pdb
 C:\Users\pranjal.misra\Desktop\PM\dotNet\Bulky\Bulky\Bulky.DataAccess\obj\Debug\net8.0\Bulky.Da.6DBD1FC4.Up2Date
+C:\Users\pranjal.misra\Desktop\PM\dotNet\Bulky\Bulky\Bulky.DataAccess\obj\Debug\net8.0\Bulky.DataAccess.sourcelink.json

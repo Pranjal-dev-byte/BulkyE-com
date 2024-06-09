@@ -1,8 +1,23 @@
 {
   "version": 2,
-  "dgSpecHash": "qOh9NqMGDmc8JIIlfJUm+TgHrHD+qtNXqo/25YUpqfh8EMxnoL8Q+ZURrhmIth57h9yx+doZaVvgjz2gGNrJ4g==",
+  "dgSpecHash": "rpuCmoR64lHaoH4hB0FftdUH1r0jeo+XZQk7J0mXuk+YhGCB8mnCQ70pos0yRaQxod1XeqcpOqry5ubPoXU/Ng==",
   "success": true,
   "projectFilePath": "C:\\Users\\pranjal.misra\\Desktop\\PM\\dotNet\\Bulky\\Bulky\\Bulky.Utility\\Bulky.Utility.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\pranjal.misra\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\8.0.4\\microsoft.aspnetcore.cryptography.internal.8.0.4.nupkg.sha512",
+    "C:\\Users\\pranjal.misra\\.nuget\\packages\\microsoft.aspnetcore.cryptography.keyderivation\\8.0.4\\microsoft.aspnetcore.cryptography.keyderivation.8.0.4.nupkg.sha512",
+    "C:\\Users\\pranjal.misra\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.4\\microsoft.aspnetcore.identity.ui.8.0.4.nupkg.sha512",
+    "C:\\Users\\pranjal.misra\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\8.0.0\\microsoft.extensions.caching.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\pranjal.misra\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\8.0.0\\microsoft.extensions.dependencyinjection.8.0.0.nupkg.sha512",
+    "C:\\Users\\pranjal.misra\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\pranjal.misra\\.nuget\\packages\\microsoft.extensions.fileproviders.abstractions\\8.0.0\\microsoft.extensions.fileproviders.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\pranjal.misra\\.nuget\\packages\\microsoft.extensions.fileproviders.embedded\\8.0.4\\microsoft.extensions.fileproviders.embedded.8.0.4.nupkg.sha512",
+    "C:\\Users\\pranjal.misra\\.nuget\\packages\\microsoft.extensions.identity.core\\8.0.4\\microsoft.extensions.identity.core.8.0.4.nupkg.sha512",
+    "C:\\Users\\pranjal.misra\\.nuget\\packages\\microsoft.extensions.identity.stores\\8.0.4\\microsoft.extensions.identity.stores.8.0.4.nupkg.sha512",
+    "C:\\Users\\pranjal.misra\\.nuget\\packages\\microsoft.extensions.logging\\8.0.0\\microsoft.extensions.logging.8.0.0.nupkg.sha512",
+    "C:\\Users\\pranjal.misra\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.0\\microsoft.extensions.logging.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\pranjal.misra\\.nuget\\packages\\microsoft.extensions.options\\8.0.2\\microsoft.extensions.options.8.0.2.nupkg.sha512",
+    "C:\\Users\\pranjal.misra\\.nuget\\packages\\microsoft.extensions.primitives\\8.0.0\\microsoft.extensions.primitives.8.0.0.nupkg.sha512"
+  ],
   "logs": []
 }

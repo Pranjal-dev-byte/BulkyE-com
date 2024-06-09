@@ -5,16 +5,20 @@ using Microsoft.EntityFrameworkCore;
 
 namespace Bulky.DataAccess.Data
 {
-    public class ApplicationDbContext:IdentityDbContext<IdentityUser>
+    public class ApplicationDbContext : IdentityDbContext<IdentityUser>
     {
-        public ApplicationDbContext(DbContextOptions<ApplicationDbContext> options):base(options)
+        public ApplicationDbContext(DbContextOptions<ApplicationDbContext> options) : base(options)
         {
-            
+
         }
 
         public DbSet<Category> Categories { get; set; }
         public DbSet<Product> Products { get; set; }
         public DbSet<ApplicationUser> ApplicationUsers { get; set; }
+        public DbSet<Company> Companies { get; set; }
+        public DbSet<ShoppingCart> ShoppingCarts { get; set; }
+        public DbSet<OrderDetails> OrderDetails { get; set; }
+        public DbSet<OrderHeader> OrderHeader { get; set; }
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
@@ -35,7 +39,7 @@ namespace Bulky.DataAccess.Data
                 Price50 = 85,
                 Price100 = 80,
                 CategoryId = 1,
-                ImageUrl=""
+                ImageUrl = ""
             },
                 new Product
                 {
@@ -107,6 +111,12 @@ namespace Bulky.DataAccess.Data
                     CategoryId = 3,
                     ImageUrl = ""
                 });
+
+
+            modelBuilder.Entity<Company>().HasData(
+                new Company { Id = 1, Name = "Tech solution", StreetAddress = "123 Text test", PostalCode = "122012", City = "Gurugram", PhoneNumber = "88829928882", State = "UP" },
+                new Company { Id = 2, Name = "Tech solution", StreetAddress = "1234 Text tecompanyst", PostalCode = "122012", City = "Gurugram", PhoneNumber = "88829928882", State = "UP" },
+                new Company { Id = 3, Name = "Tech solution", StreetAddress = "123 exists", PostalCode = "122012", City = "Gurugram", PhoneNumber = "88829928882", State = "UP" });
         }
     }
 }
