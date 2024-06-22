@@ -9,6 +9,7 @@
       "BulkyWeb/1.0.0": {
         "dependencies": {
           "Bulky.DataAccess": "1.0.0",
+          "Microsoft.AspNetCore.Authentication.Facebook": "8.0.6",
           "Microsoft.AspNetCore.Identity.EntityFrameworkCore": "8.0.4",
           "Microsoft.AspNetCore.Identity.UI": "8.0.4",
           "Microsoft.EntityFrameworkCore": "8.0.4",
@@ -594,6 +595,14 @@
         "resources": {
           "lib/net6.0/zh-Hant/Humanizer.resources.dll": {
             "locale": "zh-Hant"
+          }
+        }
+      },
+      "Microsoft.AspNetCore.Authentication.Facebook/8.0.6": {
+        "runtime": {
+          "lib/net8.0/Microsoft.AspNetCore.Authentication.Facebook.dll": {
+            "assemblyVersion": "8.0.6.0",
+            "fileVersion": "8.0.624.26909"
           }
         }
       },
@@ -2540,6 +2549,13 @@
       "sha512": "sha512-VIXB7HCUC34OoaGnO3HJVtSv2/wljPhjV7eKH4+TFPgQdJj2lvHNKY41Dtg0Bphu7X5UaXFR4zrYYyo+GNOjbA==",
       "path": "humanizer.core.zh-hant/2.14.1",
       "hashPath": "humanizer.core.zh-hant.2.14.1.nupkg.sha512"
+    },
+    "Microsoft.AspNetCore.Authentication.Facebook/8.0.6": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-82DoyiTJrOPW2Uw0yfvvpdGnOJigP9/AHCrlmvGG2KYJO54+OKJp/Ykp5Waquy9s97wNCYtrA0sGAgPoFBcnzQ==",
+      "path": "microsoft.aspnetcore.authentication.facebook/8.0.6",
+      "hashPath": "microsoft.aspnetcore.authentication.facebook.8.0.6.nupkg.sha512"
     },
     "Microsoft.AspNetCore.Cryptography.Internal/8.0.4": {
       "type": "package",

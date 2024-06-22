@@ -1,8 +1,10 @@
 using Bulky.DataAccess.Repository.IRepository;
 using Bulky.Models;
 using Bulky.Models.ViewModels;
+using Bulky.Utility;
 using Microsoft.AspNetCore.Authorization;
-using Microsoft.AspNetCore.Mvc;
+using Microsoft.AspNetCore.Http;
+using Microsoft.AspNetCore.Mvc; 
 using System.Diagnostics;
 using System.Security.Claims;
 
@@ -23,6 +25,14 @@ namespace BulkyWeb.Areas.Customer.Controllers
 
         public IActionResult Index()
         {
+
+            var claimsIdentity = (ClaimsIdentity)User.Identity;
+            var claim = claimsIdentity.FindFirst(ClaimTypes.NameIdentifier);
+            if(claim != null)
+            {
+                HttpContext.Session.SetInt32(SD.SessionCart, _unitOfWork.ShoppingCart.GetAll(u => u.ApplicationUserId == claim.Value).Count());
+            }
+
             IEnumerable<Product> productList = _unitOfWork.Products.GetAll(includeProperties: "Category") ;
             return View(productList);
         }
@@ -43,19 +53,21 @@ namespace BulkyWeb.Areas.Customer.Controllers
         public IActionResult Details(ShoppingCart cart) {
             var claimsIdentity = (ClaimsIdentity)User.Identity;
             var userId = claimsIdentity.FindFirst(ClaimTypes.NameIdentifier).Value;
-            cart.ApplicationUserId = userId;
+            cart.ApplicationUserId = userId;    
             ShoppingCart cartFromDb = _unitOfWork.ShoppingCart.Get(u=>u.ApplicationUserId == userId && u.ProductId == cart.ProductId);
             if (cartFromDb!=null)
             {
                 cartFromDb.Count += cart.Count;
                 _unitOfWork.ShoppingCart.Update(cartFromDb);
+                _unitOfWork.Save();
             }
             else
             {
                 cart.Id = 0;
                 _unitOfWork.ShoppingCart.Add(cart);
+                _unitOfWork.Save();
+                HttpContext.Session.SetInt32(SD.SessionCart, _unitOfWork.ShoppingCart.GetAll(u => u.ApplicationUserId == userId).Count());
             }
-            _unitOfWork.Save();
             TempData["success"] = "Product created successfully";   
             return RedirectToAction(nameof(Index));
         }
